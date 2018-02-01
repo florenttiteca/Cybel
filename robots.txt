@@ -1,0 +1,4 @@
+User-Agent: * 
+Disallow: /old_versions/
+Disallow: /logs/
+Sitemap: http://www.institutdebeautecybel.fr/sitemap.xml

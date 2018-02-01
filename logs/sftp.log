@@ -1,0 +1,714 @@
+Feb  1 02:59:03 10.71.48.6 u77777244 Connection from 10.71.48.6 port 59866 on 217.160.63.155 port 22
+Feb  1 02:59:08 10.71.48.6 u77777244 Accepted password for u77777244 from 10.71.48.6 port 59866 ssh2
+Feb  1 02:59:08 10.71.48.6 u77777244 Starting session: subsystem 'sftp' for u77777244 from 10.71.48.6 port 59866
+Feb  1 02:59:08 10.71.48.6 u77777244 session opened for local user u77777244 from [10.71.48.6]
+Feb  1 02:59:50 10.71.48.6 u77777244 Connection from 10.71.48.6 port 19868 on 217.160.63.155 port 22
+Feb  1 02:59:51 10.71.48.6 u77777244 Accepted password for u77777244 from 10.71.48.6 port 19868 ssh2
+Feb  1 02:59:50 10.71.48.6 u77777244 Connection from 10.71.48.6 port 19870 on 217.160.63.155 port 22
+Feb  1 02:59:51 10.71.48.6 u77777244 Accepted password for u77777244 from 10.71.48.6 port 19870 ssh2
+Feb  1 02:59:51 10.71.48.6 u77777244 Starting session: subsystem 'sftp' for u77777244 from 10.71.48.6 port 19868
+Feb  1 02:59:51 10.71.48.6 u77777244 Starting session: subsystem 'sftp' for u77777244 from 10.71.48.6 port 19870
+Feb  1 02:59:51 10.71.48.6 u77777244 session opened for local user u77777244 from [10.71.48.6]
+Feb  1 02:59:51 10.71.48.6 u77777244 session opened for local user u77777244 from [10.71.48.6]
+Feb  1 02:59:52 10.71.48.6 u77777244 open "/accessoires_parfumerie.php" flags READ mode 0666
+Feb  1 02:59:52 10.71.48.6 u77777244 open "/.htaccess" flags READ mode 0666
+Feb  1 02:59:53 10.71.48.6 u77777244 close "/accessoires_parfumerie.php" bytes read 5606 written 0
+Feb  1 02:59:53 10.71.48.6 u77777244 [10.71.48.6|get|1|5606|0|0|0|2f6163636573736f697265735f70617266756d657269652e706870|]
+Feb  1 02:59:53 10.71.48.6 u77777244 close "/.htaccess" bytes read 139 written 0
+Feb  1 02:59:53 10.71.48.6 u77777244 [10.71.48.6|get|1|139|0|0|0|2f2e6874616363657373|]
+Feb  1 02:59:53 10.71.48.6 u77777244 open "/amincissement.php" flags READ mode 0666
+Feb  1 02:59:53 10.71.48.6 u77777244 open "/autres.php" flags READ mode 0666
+Feb  1 02:59:53 10.71.48.6 u77777244 close "/autres.php" bytes read 5933 written 0
+Feb  1 02:59:53 10.71.48.6 u77777244 [10.71.48.6|get|0|5933|0|0|0|2f6175747265732e706870|]
+Feb  1 02:59:54 10.71.48.6 u77777244 close "/amincissement.php" bytes read 3461 written 0
+Feb  1 02:59:54 10.71.48.6 u77777244 [10.71.48.6|get|1|3461|0|0|0|2f616d696e63697373656d656e742e706870|]
+Feb  1 02:59:54 10.71.48.6 u77777244 open "/contact.php" flags READ mode 0666
+Feb  1 02:59:54 10.71.48.6 u77777244 open "/footer.php" flags READ mode 0666
+Feb  1 02:59:54 10.71.48.6 u77777244 close "/contact.php" bytes read 2061 written 0
+Feb  1 02:59:54 10.71.48.6 u77777244 [10.71.48.6|get|0|2061|0|0|0|2f636f6e746163742e706870|]
+Feb  1 02:59:54 10.71.48.6 u77777244 close "/footer.php" bytes read 988 written 0
+Feb  1 02:59:54 10.71.48.6 u77777244 [10.71.48.6|get|0|988|0|0|0|2f666f6f7465722e706870|]
+Feb  1 02:59:55 10.71.48.6 u77777244 open "/google412815fc7f76097f.html" flags READ mode 0666
+Feb  1 02:59:55 10.71.48.6 u77777244 open "/header.php" flags READ mode 0666
+Feb  1 02:59:55 10.71.48.6 u77777244 close "/google412815fc7f76097f.html" bytes read 53 written 0
+Feb  1 02:59:55 10.71.48.6 u77777244 [10.71.48.6|get|0|53|0|0|0|2f676f6f676c65343132383135666337663736303937662e68746d6c|]
+Feb  1 02:59:55 10.71.48.6 u77777244 close "/header.php" bytes read 906 written 0
+Feb  1 02:59:55 10.71.48.6 u77777244 [10.71.48.6|get|0|906|0|0|0|2f6865616465722e706870|]
+Feb  1 02:59:55 10.71.48.6 u77777244 open "/index.php" flags READ mode 0666
+Feb  1 02:59:55 10.71.48.6 u77777244 open "/menu.php" flags READ mode 0666
+Feb  1 02:59:56 10.71.48.6 u77777244 close "/index.php" bytes read 6576 written 0
+Feb  1 02:59:56 10.71.48.6 u77777244 [10.71.48.6|get|1|6576|0|0|0|2f696e6465782e706870|]
+Feb  1 02:59:56 10.71.48.6 u77777244 close "/menu.php" bytes read 1981 written 0
+Feb  1 02:59:56 10.71.48.6 u77777244 [10.71.48.6|get|1|1981|0|0|0|2f6d656e752e706870|]
+Feb  1 02:59:56 10.71.48.6 u77777244 open "/old_versions.zip" flags READ mode 0666
+Feb  1 02:59:56 10.71.48.6 u77777244 open "/robots.txt" flags READ mode 0666
+Feb  1 02:59:57 10.71.48.6 u77777244 close "/robots.txt" bytes read 113 written 0
+Feb  1 02:59:57 10.71.48.6 u77777244 [10.71.48.6|get|1|113|0|0|0|2f726f626f74732e747874|]
+Feb  1 02:59:57 10.71.48.6 u77777244 open "/sitemap.xml" flags READ mode 0666
+Feb  1 02:59:57 10.71.48.6 u77777244 close "/sitemap.xml" bytes read 2525 written 0
+Feb  1 02:59:57 10.71.48.6 u77777244 [10.71.48.6|get|0|2525|0|0|0|2f736974656d61702e786d6c|]
+Feb  1 02:59:58 10.71.48.6 u77777244 open "/soins.php" flags READ mode 0666
+Feb  1 02:59:59 10.71.48.6 u77777244 close "/soins.php" bytes read 3473 written 0
+Feb  1 02:59:59 10.71.48.6 u77777244 [10.71.48.6|get|1|3473|0|0|0|2f736f696e732e706870|]
+Feb  1 02:59:59 10.71.48.6 u77777244 open "/soins_du_corps.php" flags READ mode 0666
+Feb  1 03:00:00 10.71.48.6 u77777244 close "/soins_du_corps.php" bytes read 4792 written 0
+Feb  1 03:00:00 10.71.48.6 u77777244 [10.71.48.6|get|1|4792|0|0|0|2f736f696e735f64755f636f7270732e706870|]
+Feb  1 03:00:01 10.71.48.6 u77777244 open "/soins_du_visage.php" flags READ mode 0666
+Feb  1 03:00:01 10.71.48.6 u77777244 close "/soins_du_visage.php" bytes read 6502 written 0
+Feb  1 03:00:01 10.71.48.6 u77777244 [10.71.48.6|get|0|6502|0|0|0|2f736f696e735f64755f7669736167652e706870|]
+Feb  1 03:00:02 10.71.48.6 u77777244 open "/css/style_institut.css" flags READ mode 0666
+Feb  1 03:00:03 10.71.48.6 u77777244 close "/css/style_institut.css" bytes read 8074 written 0
+Feb  1 03:00:03 10.71.48.6 u77777244 [10.71.48.6|get|1|8074|0|0|0|2f6373732f7374796c655f696e7374697475742e637373|]
+Feb  1 03:00:03 10.71.48.6 u77777244 open "/css/ie.css" flags READ mode 0666
+Feb  1 03:00:04 10.71.48.6 u77777244 close "/css/ie.css" bytes read 12334 written 0
+Feb  1 03:00:04 10.71.48.6 u77777244 [10.71.48.6|get|1|12334|0|0|0|2f6373732f69652e637373|]
+Feb  1 03:00:05 10.71.48.6 u77777244 open "/css/polices/aerolite/AeroliteCPtwo.otf" flags READ mode 0666
+Feb  1 03:00:06 10.71.48.6 u77777244 close "/css/polices/aerolite/AeroliteCPtwo.otf" bytes read 19756 written 0
+Feb  1 03:00:06 10.71.48.6 u77777244 [10.71.48.6|get|1|19756|0|0|0|2f6373732f706f6c696365732f6165726f6c6974652f4165726f6c697465435074776f2e6f7466|]
+Feb  1 03:00:06 10.71.48.6 u77777244 open "/css/polices/aerolite/AeroliteCPone.otf" flags READ mode 0666
+Feb  1 03:00:07 10.71.48.6 u77777244 close "/css/polices/aerolite/AeroliteCPone.otf" bytes read 19800 written 0
+Feb  1 03:00:07 10.71.48.6 u77777244 [10.71.48.6|get|1|19800|0|0|0|2f6373732f706f6c696365732f6165726f6c6974652f4165726f6c69746543506f6e652e6f7466|]
+Feb  1 03:00:08 10.71.48.6 u77777244 open "/css/polices/carolingia/carolingia.ttf" flags READ mode 0666
+Feb  1 03:00:09 10.71.48.6 u77777244 close "/css/polices/carolingia/carolingia.ttf" bytes read 34828 written 0
+Feb  1 03:00:09 10.71.48.6 u77777244 [10.71.48.6|get|1|34828|0|0|0|2f6373732f706f6c696365732f6361726f6c696e6769612f6361726f6c696e6769612e747466|]
+Feb  1 03:00:10 10.71.48.6 u77777244 open "/css/polices/coneria_script/Demo_ConeriaScript_Slanted.ttf" flags READ mode 0666
+Feb  1 03:00:11 10.71.48.6 u77777244 close "/css/polices/coneria_script/Demo_ConeriaScript_Slanted.ttf" bytes read 247488 written 0
+Feb  1 03:00:11 10.71.48.6 u77777244 [10.71.48.6|get|1|247488|0|0|0|2f6373732f706f6c696365732f636f6e657269615f7363726970742f44656d6f5f436f6e657269615363726970745f536c616e7465642e747466|]
+Feb  1 03:00:11 10.71.48.6 u77777244 open "/css/polices/coneria_script/Demo_ConeriaScript.ttf" flags READ mode 0666
+Feb  1 03:00:13 10.71.48.6 u77777244 close "/css/polices/coneria_script/Demo_ConeriaScript.ttf" bytes read 238656 written 0
+Feb  1 03:00:13 10.71.48.6 u77777244 [10.71.48.6|get|2|238656|0|0|0|2f6373732f706f6c696365732f636f6e657269615f7363726970742f44656d6f5f436f6e657269615363726970742e747466|]
+Feb  1 03:00:13 10.71.48.6 u77777244 open "/css/polices/coneria_script/coneria-script_poster02.png" flags READ mode 0666
+Feb  1 03:00:14 10.71.48.6 u77777244 close "/css/polices/coneria_script/coneria-script_poster02.png" bytes read 143412 written 0
+Feb  1 03:00:14 10.71.48.6 u77777244 [10.71.48.6|get|1|143412|0|0|0|2f6373732f706f6c696365732f636f6e657269615f7363726970742f636f6e657269612d7363726970745f706f7374657230322e706e67|]
+Feb  1 03:00:15 10.71.48.6 u77777244 open "/css/polices/coneria_script/coneria-script_poster03.png" flags READ mode 0666
+Feb  1 03:00:16 10.71.48.6 u77777244 close "/css/polices/coneria_script/coneria-script_poster03.png" bytes read 164687 written 0
+Feb  1 03:00:16 10.71.48.6 u77777244 [10.71.48.6|get|1|164687|0|0|0|2f6373732f706f6c696365732f636f6e657269615f7363726970742f636f6e657269612d7363726970745f706f7374657230332e706e67|]
+Feb  1 03:00:16 10.71.48.6 u77777244 open "/css/polices/coneria_script/coneria-script_flag.png" flags READ mode 0666
+Feb  1 03:00:17 10.71.48.6 u77777244 close "/css/polices/coneria_script/coneria-script_flag.png" bytes read 50768 written 0
+Feb  1 03:00:17 10.71.48.6 u77777244 [10.71.48.6|get|1|50768|0|0|0|2f6373732f706f6c696365732f636f6e657269615f7363726970742f636f6e657269612d7363726970745f666c61672e706e67|]
+Feb  1 03:00:18 10.71.48.6 u77777244 open "/css/polices/daniel_midgley/danielbk.ttf" flags READ mode 0666
+Feb  1 03:00:18 10.71.48.6 u77777244 close "/old_versions.zip" bytes read 57664798 written 0
+Feb  1 03:00:18 10.71.48.6 u77777244 [10.71.48.6|get|22|57664798|0|0|0|2f6f6c645f76657273696f6e732e7a6970|]
+Feb  1 03:00:18 10.71.48.6 u77777244 close "/css/polices/daniel_midgley/danielbk.ttf" bytes read 88760 written 0
+Feb  1 03:00:18 10.71.48.6 u77777244 [10.71.48.6|get|0|88760|0|0|0|2f6373732f706f6c696365732f64616e69656c5f6d6964676c65792f64616e69656c626b2e747466|]
+Feb  1 03:00:19 10.71.48.6 u77777244 open "/css/polices/daniel_midgley/daniel.ttf" flags READ mode 0666
+Feb  1 03:00:19 10.71.48.6 u77777244 open "/css/polices/daniel_midgley/danielbd.ttf" flags READ mode 0666
+Feb  1 03:00:19 10.71.48.6 u77777244 close "/css/polices/daniel_midgley/daniel.ttf" bytes read 51984 written 0
+Feb  1 03:00:19 10.71.48.6 u77777244 [10.71.48.6|get|0|51984|0|0|0|2f6373732f706f6c696365732f64616e69656c5f6d6964676c65792f64616e69656c2e747466|]
+Feb  1 03:00:19 10.71.48.6 u77777244 close "/css/polices/daniel_midgley/danielbd.ttf" bytes read 63688 written 0
+Feb  1 03:00:19 10.71.48.6 u77777244 [10.71.48.6|get|0|63688|0|0|0|2f6373732f706f6c696365732f64616e69656c5f6d6964676c65792f64616e69656c62642e747466|]
+Feb  1 03:00:19 10.71.48.6 u77777244 open "/css/polices/daniel_midgley/Daniel Midgley.txt" flags READ mode 0666
+Feb  1 03:00:20 10.71.48.6 u77777244 close "/css/polices/daniel_midgley/Daniel Midgley.txt" bytes read 836 written 0
+Feb  1 03:00:20 10.71.48.6 u77777244 [10.71.48.6|get|1|836|0|0|0|2f6373732f706f6c696365732f64616e69656c5f6d6964676c65792f44616e69656c204d6964676c65792e747874|]
+Feb  1 03:00:20 10.71.48.6 u77777244 open "/css/polices/desyrel_regular_macroman/desyrel-webfont.woff" flags READ mode 0666
+Feb  1 03:00:20 10.71.48.6 u77777244 close "/css/polices/desyrel_regular_macroman/desyrel-webfont.woff" bytes read 39132 written 0
+Feb  1 03:00:20 10.71.48.6 u77777244 [10.71.48.6|get|0|39132|0|0|0|2f6373732f706f6c696365732f6465737972656c5f726567756c61725f6d6163726f6d616e2f6465737972656c2d776562666f6e742e776f6666|]
+Feb  1 03:00:20 10.71.48.6 u77777244 open "/css/polices/desyrel_regular_macroman/stylesheet.css" flags READ mode 0666
+Feb  1 03:00:21 10.71.48.6 u77777244 open "/css/polices/desyrel_regular_macroman/desyrel-webfont.ttf" flags READ mode 0666
+Feb  1 03:00:21 10.71.48.6 u77777244 close "/css/polices/desyrel_regular_macroman/stylesheet.css" bytes read 385 written 0
+Feb  1 03:00:21 10.71.48.6 u77777244 [10.71.48.6|get|1|385|0|0|0|2f6373732f706f6c696365732f6465737972656c5f726567756c61725f6d6163726f6d616e2f7374796c6573686565742e637373|]
+Feb  1 03:00:21 10.71.48.6 u77777244 open "/css/polices/desyrel_regular_macroman/desyrel-webfont.svg" flags READ mode 0666
+Feb  1 03:00:21 10.71.48.6 u77777244 close "/css/polices/desyrel_regular_macroman/desyrel-webfont.ttf" bytes read 81656 written 0
+Feb  1 03:00:21 10.71.48.6 u77777244 [10.71.48.6|get|0|81656|0|0|0|2f6373732f706f6c696365732f6465737972656c5f726567756c61725f6d6163726f6d616e2f6465737972656c2d776562666f6e742e747466|]
+Feb  1 03:00:22 10.71.48.6 u77777244 open "/css/polices/desyrel_regular_macroman/desyrel-webfont.eot" flags READ mode 0666
+Feb  1 03:00:22 10.71.48.6 u77777244 close "/css/polices/desyrel_regular_macroman/desyrel-webfont.svg" bytes read 305827 written 0
+Feb  1 03:00:22 10.71.48.6 u77777244 [10.71.48.6|get|1|305827|0|0|0|2f6373732f706f6c696365732f6465737972656c5f726567756c61725f6d6163726f6d616e2f6465737972656c2d776562666f6e742e737667|]
+Feb  1 03:00:22 10.71.48.6 u77777244 close "/css/polices/desyrel_regular_macroman/desyrel-webfont.eot" bytes read 35964 written 0
+Feb  1 03:00:22 10.71.48.6 u77777244 [10.71.48.6|get|0|35964|0|0|0|2f6373732f706f6c696365732f6465737972656c5f726567756c61725f6d6163726f6d616e2f6465737972656c2d776562666f6e742e656f74|]
+Feb  1 03:00:22 10.71.48.6 u77777244 open "/css/polices/desyrel_regular_macroman/desyrel-demo.html" flags READ mode 0666
+Feb  1 03:00:22 10.71.48.6 u77777244 close "/css/polices/desyrel_regular_macroman/desyrel-demo.html" bytes read 24069 written 0
+Feb  1 03:00:22 10.71.48.6 u77777244 [10.71.48.6|get|0|24069|0|0|0|2f6373732f706f6c696365732f6465737972656c5f726567756c61725f6d6163726f6d616e2f6465737972656c2d64656d6f2e68746d6c|]
+Feb  1 03:00:23 10.71.48.6 u77777244 open "/css/polices/desyrel_regular_macroman/specimen_files/specimen_stylesheet.css" flags READ mode 0666
+Feb  1 03:00:23 10.71.48.6 u77777244 close "/css/polices/desyrel_regular_macroman/specimen_files/specimen_stylesheet.css" bytes read 7310 written 0
+Feb  1 03:00:23 10.71.48.6 u77777244 [10.71.48.6|get|0|7310|0|0|0|2f6373732f706f6c696365732f6465737972656c5f726567756c61725f6d6163726f6d616e2f73706563696d656e5f66696c65732f73706563696d656e5f7374796c6573686565742e637373|]
+Feb  1 03:00:23 10.71.48.6 u77777244 open "/css/polices/desyrel_regular_macroman/specimen_files/grid_12-825-55-15.css" flags READ mode 0666
+Feb  1 03:00:23 10.71.48.6 u77777244 open "/css/polices/desyrel_regular_macroman/specimen_files/easytabs.js" flags READ mode 0666
+Feb  1 03:00:24 10.71.48.6 u77777244 close "/css/polices/desyrel_regular_macroman/specimen_files/grid_12-825-55-15.css" bytes read 4597 written 0
+Feb  1 03:00:24 10.71.48.6 u77777244 [10.71.48.6|get|1|4597|0|0|0|2f6373732f706f6c696365732f6465737972656c5f726567756c61725f6d6163726f6d616e2f73706563696d656e5f66696c65732f677269645f31322d3832352d35352d31352e637373|]
+Feb  1 03:00:24 10.71.48.6 u77777244 close "/css/polices/desyrel_regular_macroman/specimen_files/easytabs.js" bytes read 1082 written 0
+Feb  1 03:00:24 10.71.48.6 u77777244 [10.71.48.6|get|1|1082|0|0|0|2f6373732f706f6c696365732f6465737972656c5f726567756c61725f6d6163726f6d616e2f73706563696d656e5f66696c65732f65617379746162732e6a73|]
+Feb  1 03:00:24 10.71.48.6 u77777244 open "/css/polices/desyrel_regular_macroman/specimen_files/desyrel-cleartype.png" flags READ mode 0666
+Feb  1 03:00:24 10.71.48.6 u77777244 close "/css/polices/desyrel_regular_macroman/specimen_files/desyrel-cleartype.png" bytes read 87758 written 0
+Feb  1 03:00:24 10.71.48.6 u77777244 [10.71.48.6|get|0|87758|0|0|0|2f6373732f706f6c696365732f6465737972656c5f726567756c61725f6d6163726f6d616e2f73706563696d656e5f66696c65732f6465737972656c2d636c656172747970652e706e67|]
+Feb  1 03:00:25 10.71.48.6 u77777244 open "/css/polices/gooddog/stylesheet.css" flags READ mode 0666
+Feb  1 03:00:25 10.71.48.6 u77777244 close "/css/polices/gooddog/stylesheet.css" bytes read 497 written 0
+Feb  1 03:00:25 10.71.48.6 u77777244 [10.71.48.6|get|0|497|0|0|0|2f6373732f706f6c696365732f676f6f64646f672f7374796c6573686565742e637373|]
+Feb  1 03:00:25 10.71.48.6 u77777244 open "/css/polices/gooddog/GoodDog-webfont.woff" flags READ mode 0666
+Feb  1 03:00:25 10.71.48.6 u77777244 open "/css/polices/gooddog/GoodDog-webfont.ttf" flags READ mode 0666
+Feb  1 03:00:25 10.71.48.6 u77777244 close "/css/polices/gooddog/GoodDog-webfont.woff" bytes read 22112 written 0
+Feb  1 03:00:25 10.71.48.6 u77777244 [10.71.48.6|get|0|22112|0|0|0|2f6373732f706f6c696365732f676f6f64646f672f476f6f64446f672d776562666f6e742e776f6666|]
+Feb  1 03:00:26 10.71.48.6 u77777244 close "/css/polices/gooddog/GoodDog-webfont.ttf" bytes read 30816 written 0
+Feb  1 03:00:26 10.71.48.6 u77777244 [10.71.48.6|get|1|30816|0|0|0|2f6373732f706f6c696365732f676f6f64646f672f476f6f64446f672d776562666f6e742e747466|]
+Feb  1 03:00:26 10.71.48.6 u77777244 open "/css/polices/gooddog/GoodDog-webfont.svg" flags READ mode 0666
+Feb  1 03:00:26 10.71.48.6 u77777244 open "/css/polices/gooddog/GoodDog-webfont.eot" flags READ mode 0666
+Feb  1 03:00:26 10.71.48.6 u77777244 close "/css/polices/gooddog/GoodDog-webfont.svg" bytes read 57761 written 0
+Feb  1 03:00:26 10.71.48.6 u77777244 [10.71.48.6|get|0|57761|0|0|0|2f6373732f706f6c696365732f676f6f64646f672f476f6f64446f672d776562666f6e742e737667|]
+Feb  1 03:00:26 10.71.48.6 u77777244 close "/css/polices/gooddog/GoodDog-webfont.eot" bytes read 31000 written 0
+Feb  1 03:00:26 10.71.48.6 u77777244 [10.71.48.6|get|0|31000|0|0|0|2f6373732f706f6c696365732f676f6f64646f672f476f6f64446f672d776562666f6e742e656f74|]
+Feb  1 03:00:27 10.71.48.6 u77777244 open "/css/polices/gooddog/demo.html" flags READ mode 0666
+Feb  1 03:00:27 10.71.48.6 u77777244 open "/css/polices/gooddog/Fonthead Standard EULA.txt" flags READ mode 0666
+Feb  1 03:00:27 10.71.48.6 u77777244 close "/css/polices/gooddog/demo.html" bytes read 1278 written 0
+Feb  1 03:00:27 10.71.48.6 u77777244 [10.71.48.6|get|0|1278|0|0|0|2f6373732f706f6c696365732f676f6f64646f672f64656d6f2e68746d6c|]
+Feb  1 03:00:27 10.71.48.6 u77777244 close "/css/polices/gooddog/Fonthead Standard EULA.txt" bytes read 2872 written 0
+Feb  1 03:00:27 10.71.48.6 u77777244 [10.71.48.6|get|0|2872|0|0|0|2f6373732f706f6c696365732f676f6f64646f672f466f6e7468656164205374616e646172642045554c412e747874|]
+Feb  1 03:00:28 10.71.48.6 u77777244 open "/css/polices/journal/journal-webfont.woff" flags READ mode 0666
+Feb  1 03:00:28 10.71.48.6 u77777244 sent status No such file
+Feb  1 03:00:28 10.71.48.6 u77777244 open "/css/polices/journal/stylesheet.css" flags READ mode 0666
+Feb  1 03:00:28 10.71.48.6 u77777244 close "/css/polices/journal/journal-webfont.woff" bytes read 62584 written 0
+Feb  1 03:00:28 10.71.48.6 u77777244 [10.71.48.6|get|0|62584|0|0|0|2f6373732f706f6c696365732f6a6f75726e616c2f6a6f75726e616c2d776562666f6e742e776f6666|]
+Feb  1 03:00:29 10.71.48.6 u77777244 close "/css/polices/journal/stylesheet.css" bytes read 385 written 0
+Feb  1 03:00:29 10.71.48.6 u77777244 [10.71.48.6|get|1|385|0|0|0|2f6373732f706f6c696365732f6a6f75726e616c2f7374796c6573686565742e637373|]
+Feb  1 03:00:29 10.71.48.6 u77777244 open "/css/polices/journal/journal-webfont.ttf" flags READ mode 0666
+Feb  1 03:00:29 10.71.48.6 u77777244 open "/css/polices/journal/journal-webfont.svg" flags READ mode 0666
+Feb  1 03:00:29 10.71.48.6 u77777244 close "/css/polices/journal/journal-webfont.ttf" bytes read 116700 written 0
+Feb  1 03:00:29 10.71.48.6 u77777244 [10.71.48.6|get|0|116700|0|0|0|2f6373732f706f6c696365732f6a6f75726e616c2f6a6f75726e616c2d776562666f6e742e747466|]
+Feb  1 03:00:29 10.71.48.6 u77777244 close "/css/polices/journal/journal-webfont.svg" bytes read 171431 written 0
+Feb  1 03:00:29 10.71.48.6 u77777244 [10.71.48.6|get|0|171431|0|0|0|2f6373732f706f6c696365732f6a6f75726e616c2f6a6f75726e616c2d776562666f6e742e737667|]
+Feb  1 03:00:30 10.71.48.6 u77777244 open "/css/polices/journal/journal-webfont.eot" flags READ mode 0666
+Feb  1 03:00:30 10.71.48.6 u77777244 open "/css/polices/journal/journal-demo.html" flags READ mode 0666
+Feb  1 03:00:30 10.71.48.6 u77777244 close "/css/polices/journal/journal-webfont.eot" bytes read 55547 written 0
+Feb  1 03:00:30 10.71.48.6 u77777244 [10.71.48.6|get|0|55547|0|0|0|2f6373732f706f6c696365732f6a6f75726e616c2f6a6f75726e616c2d776562666f6e742e656f74|]
+Feb  1 03:00:30 10.71.48.6 u77777244 close "/css/polices/journal/journal-demo.html" bytes read 24069 written 0
+Feb  1 03:00:30 10.71.48.6 u77777244 [10.71.48.6|get|0|24069|0|0|0|2f6373732f706f6c696365732f6a6f75726e616c2f6a6f75726e616c2d64656d6f2e68746d6c|]
+Feb  1 03:00:31 10.71.48.6 u77777244 open "/css/polices/journal/specimen_files/specimen_stylesheet.css" flags READ mode 0666
+Feb  1 03:00:31 10.71.48.6 u77777244 open "/css/polices/journal/specimen_files/grid_12-825-55-15.css" flags READ mode 0666
+Feb  1 03:00:31 10.71.48.6 u77777244 close "/css/polices/journal/specimen_files/specimen_stylesheet.css" bytes read 7310 written 0
+Feb  1 03:00:31 10.71.48.6 u77777244 [10.71.48.6|get|0|7310|0|0|0|2f6373732f706f6c696365732f6a6f75726e616c2f73706563696d656e5f66696c65732f73706563696d656e5f7374796c6573686565742e637373|]
+Feb  1 03:00:32 10.71.48.6 u77777244 close "/css/polices/journal/specimen_files/grid_12-825-55-15.css" bytes read 4597 written 0
+Feb  1 03:00:32 10.71.48.6 u77777244 [10.71.48.6|get|1|4597|0|0|0|2f6373732f706f6c696365732f6a6f75726e616c2f73706563696d656e5f66696c65732f677269645f31322d3832352d35352d31352e637373|]
+Feb  1 03:00:32 10.71.48.6 u77777244 open "/css/polices/journal/specimen_files/easytabs.js" flags READ mode 0666
+Feb  1 03:00:32 10.71.48.6 u77777244 close "/css/polices/journal/specimen_files/easytabs.js" bytes read 1082 written 0
+Feb  1 03:00:32 10.71.48.6 u77777244 [10.71.48.6|get|0|1082|0|0|0|2f6373732f706f6c696365732f6a6f75726e616c2f73706563696d656e5f66696c65732f65617379746162732e6a73|]
+Feb  1 03:00:32 10.71.48.6 u77777244 open "/css/polices/learning/stylesheet.css" flags READ mode 0666
+Feb  1 03:00:33 10.71.48.6 u77777244 close "/css/polices/learning/stylesheet.css" bytes read 1050 written 0
+Feb  1 03:00:33 10.71.48.6 u77777244 [10.71.48.6|get|1|1050|0|0|0|2f6373732f706f6c696365732f6c6561726e696e672f7374796c6573686565742e637373|]
+Feb  1 03:00:33 10.71.48.6 u77777244 open "/css/polices/learning/LearningCurve_OT-webfont.woff" flags READ mode 0666
+Feb  1 03:00:33 10.71.48.6 u77777244 open "/css/polices/learning/LearningCurve_OT-webfont.ttf" flags READ mode 0666
+Feb  1 03:00:33 10.71.48.6 u77777244 close "/css/polices/learning/LearningCurve_OT-webfont.woff" bytes read 44408 written 0
+Feb  1 03:00:33 10.71.48.6 u77777244 [10.71.48.6|get|0|44408|0|0|0|2f6373732f706f6c696365732f6c6561726e696e672f4c6561726e696e6743757276655f4f542d776562666f6e742e776f6666|]
+Feb  1 03:00:33 10.71.48.6 u77777244 close "/css/polices/learning/LearningCurve_OT-webfont.ttf" bytes read 72336 written 0
+Feb  1 03:00:33 10.71.48.6 u77777244 [10.71.48.6|get|0|72336|0|0|0|2f6373732f706f6c696365732f6c6561726e696e672f4c6561726e696e6743757276655f4f542d776562666f6e742e747466|]
+Feb  1 03:00:34 10.71.48.6 u77777244 open "/css/polices/learning/LearningCurve_OT-webfont.svg" flags READ mode 0666
+Feb  1 03:00:34 10.71.48.6 u77777244 open "/css/polices/learning/LearningCurve_OT-webfont.eot" flags READ mode 0666
+Feb  1 03:00:34 10.71.48.6 u77777244 close "/css/polices/learning/LearningCurve_OT-webfont.svg" bytes read 86085 written 0
+Feb  1 03:00:34 10.71.48.6 u77777244 [10.71.48.6|get|0|86085|0|0|0|2f6373732f706f6c696365732f6c6561726e696e672f4c6561726e696e6743757276655f4f542d776562666f6e742e737667|]
+Feb  1 03:00:34 10.71.48.6 u77777244 close "/css/polices/learning/LearningCurve_OT-webfont.eot" bytes read 72564 written 0
+Feb  1 03:00:34 10.71.48.6 u77777244 [10.71.48.6|get|0|72564|0|0|0|2f6373732f706f6c696365732f6c6561726e696e672f4c6561726e696e6743757276655f4f542d776562666f6e742e656f74|]
+Feb  1 03:00:34 10.71.48.6 u77777244 open "/css/polices/learning/LearningCurveDashed_OT-webfont.woff" flags READ mode 0666
+Feb  1 03:00:35 10.71.48.6 u77777244 open "/css/polices/learning/LearningCurveDashed_OT-webfont.ttf" flags READ mode 0666
+Feb  1 03:00:35 10.71.48.6 u77777244 close "/css/polices/learning/LearningCurveDashed_OT-webfont.woff" bytes read 49216 written 0
+Feb  1 03:00:35 10.71.48.6 u77777244 [10.71.48.6|get|1|49216|0|0|0|2f6373732f706f6c696365732f6c6561726e696e672f4c6561726e696e6743757276654461736865645f4f542d776562666f6e742e776f6666|]
+Feb  1 03:00:35 10.71.48.6 u77777244 close "/css/polices/learning/LearningCurveDashed_OT-webfont.ttf" bytes read 111904 written 0
+Feb  1 03:00:35 10.71.48.6 u77777244 [10.71.48.6|get|0|111904|0|0|0|2f6373732f706f6c696365732f6c6561726e696e672f4c6561726e696e6743757276654461736865645f4f542d776562666f6e742e747466|]
+Feb  1 03:00:35 10.71.48.6 u77777244 open "/css/polices/learning/LearningCurveDashed_OT-webfont.svg" flags READ mode 0666
+Feb  1 03:00:35 10.71.48.6 u77777244 open "/css/polices/learning/LearningCurveDashed_OT-webfont.eot" flags READ mode 0666
+Feb  1 03:00:36 10.71.48.6 u77777244 close "/css/polices/learning/LearningCurveDashed_OT-webfont.svg" bytes read 239900 written 0
+Feb  1 03:00:36 10.71.48.6 u77777244 [10.71.48.6|get|1|239900|0|0|0|2f6373732f706f6c696365732f6c6561726e696e672f4c6561726e696e6743757276654461736865645f4f542d776562666f6e742e737667|]
+Feb  1 03:00:36 10.71.48.6 u77777244 close "/css/polices/learning/LearningCurveDashed_OT-webfont.eot" bytes read 112160 written 0
+Feb  1 03:00:36 10.71.48.6 u77777244 [10.71.48.6|get|1|112160|0|0|0|2f6373732f706f6c696365732f6c6561726e696e672f4c6561726e696e6743757276654461736865645f4f542d776562666f6e742e656f74|]
+Feb  1 03:00:36 10.71.48.6 u77777244 open "/css/polices/learning/demo.html" flags READ mode 0666
+Feb  1 03:00:36 10.71.48.6 u77777244 open "/css/polices/learning/Blue Vinyl License.txt" flags READ mode 0666
+Feb  1 03:00:36 10.71.48.6 u77777244 close "/css/polices/learning/demo.html" bytes read 1910 written 0
+Feb  1 03:00:36 10.71.48.6 u77777244 [10.71.48.6|get|0|1910|0|0|0|2f6373732f706f6c696365732f6c6561726e696e672f64656d6f2e68746d6c|]
+Feb  1 03:00:37 10.71.48.6 u77777244 close "/css/polices/learning/Blue Vinyl License.txt" bytes read 2131 written 0
+Feb  1 03:00:37 10.71.48.6 u77777244 [10.71.48.6|get|1|2131|0|0|0|2f6373732f706f6c696365732f6c6561726e696e672f426c75652056696e796c204c6963656e73652e747874|]
+Feb  1 03:00:37 10.71.48.6 u77777244 open "/css/polices/notethis_regular_macroman/Note_this-webfont.woff" flags READ mode 0666
+Feb  1 03:00:37 10.71.48.6 u77777244 open "/css/polices/notethis_regular_macroman/stylesheet.css" flags READ mode 0666
+Feb  1 03:00:38 10.71.48.6 u77777244 close "/css/polices/notethis_regular_macroman/Note_this-webfont.woff" bytes read 37612 written 0
+Feb  1 03:00:38 10.71.48.6 u77777244 [10.71.48.6|get|1|37612|0|0|0|2f6373732f706f6c696365732f6e6f7465746869735f726567756c61725f6d6163726f6d616e2f4e6f74655f746869732d776562666f6e742e776f6666|]
+Feb  1 03:00:38 10.71.48.6 u77777244 close "/css/polices/notethis_regular_macroman/stylesheet.css" bytes read 399 written 0
+Feb  1 03:00:38 10.71.48.6 u77777244 [10.71.48.6|get|1|399|0|0|0|2f6373732f706f6c696365732f6e6f7465746869735f726567756c61725f6d6163726f6d616e2f7374796c6573686565742e637373|]
+Feb  1 03:00:38 10.71.48.6 u77777244 open "/css/polices/notethis_regular_macroman/Note_this-webfont.ttf" flags READ mode 0666
+Feb  1 03:00:38 10.71.48.6 u77777244 open "/css/polices/notethis_regular_macroman/Note_this-webfont.svg" flags READ mode 0666
+Feb  1 03:00:38 10.71.48.6 u77777244 close "/css/polices/notethis_regular_macroman/Note_this-webfont.ttf" bytes read 79064 written 0
+Feb  1 03:00:38 10.71.48.6 u77777244 [10.71.48.6|get|0|79064|0|0|0|2f6373732f706f6c696365732f6e6f7465746869735f726567756c61725f6d6163726f6d616e2f4e6f74655f746869732d776562666f6e742e747466|]
+Feb  1 03:00:39 10.71.48.6 u77777244 close "/css/polices/notethis_regular_macroman/Note_this-webfont.svg" bytes read 129428 written 0
+Feb  1 03:00:39 10.71.48.6 u77777244 [10.71.48.6|get|1|129428|0|0|0|2f6373732f706f6c696365732f6e6f7465746869735f726567756c61725f6d6163726f6d616e2f4e6f74655f746869732d776562666f6e742e737667|]
+Feb  1 03:00:39 10.71.48.6 u77777244 open "/css/polices/notethis_regular_macroman/Note_this-webfont.eot" flags READ mode 0666
+Feb  1 03:00:39 10.71.48.6 u77777244 open "/css/polices/notethis_regular_macroman/Note_this-demo.html" flags READ mode 0666
+Feb  1 03:00:39 10.71.48.6 u77777244 close "/css/polices/notethis_regular_macroman/Note_this-webfont.eot" bytes read 33619 written 0
+Feb  1 03:00:39 10.71.48.6 u77777244 [10.71.48.6|get|0|33619|0|0|0|2f6373732f706f6c696365732f6e6f7465746869735f726567756c61725f6d6163726f6d616e2f4e6f74655f746869732d776562666f6e742e656f74|]
+Feb  1 03:00:39 10.71.48.6 u77777244 close "/css/polices/notethis_regular_macroman/Note_this-demo.html" bytes read 24077 written 0
+Feb  1 03:00:39 10.71.48.6 u77777244 [10.71.48.6|get|0|24077|0|0|0|2f6373732f706f6c696365732f6e6f7465746869735f726567756c61725f6d6163726f6d616e2f4e6f74655f746869732d64656d6f2e68746d6c|]
+Feb  1 03:00:40 10.71.48.6 u77777244 open "/css/polices/notethis_regular_macroman/specimen_files/specimen_stylesheet.css" flags READ mode 0666
+Feb  1 03:00:40 10.71.48.6 u77777244 open "/css/polices/notethis_regular_macroman/specimen_files/Note_this-cleartype.png" flags READ mode 0666
+Feb  1 03:00:40 10.71.48.6 u77777244 close "/css/polices/notethis_regular_macroman/specimen_files/specimen_stylesheet.css" bytes read 7310 written 0
+Feb  1 03:00:40 10.71.48.6 u77777244 [10.71.48.6|get|0|7310|0|0|0|2f6373732f706f6c696365732f6e6f7465746869735f726567756c61725f6d6163726f6d616e2f73706563696d656e5f66696c65732f73706563696d656e5f7374796c6573686565742e637373|]
+Feb  1 03:00:40 10.71.48.6 u77777244 close "/css/polices/notethis_regular_macroman/specimen_files/Note_this-cleartype.png" bytes read 110052 written 0
+Feb  1 03:00:40 10.71.48.6 u77777244 [10.71.48.6|get|0|110052|0|0|0|2f6373732f706f6c696365732f6e6f7465746869735f726567756c61725f6d6163726f6d616e2f73706563696d656e5f66696c65732f4e6f74655f746869732d636c656172747970652e706e67|]
+Feb  1 03:00:41 10.71.48.6 u77777244 open "/css/polices/notethis_regular_macroman/specimen_files/grid_12-825-55-15.css" flags READ mode 0666
+Feb  1 03:00:41 10.71.48.6 u77777244 open "/css/polices/notethis_regular_macroman/specimen_files/easytabs.js" flags READ mode 0666
+Feb  1 03:00:41 10.71.48.6 u77777244 close "/css/polices/notethis_regular_macroman/specimen_files/grid_12-825-55-15.css" bytes read 4597 written 0
+Feb  1 03:00:41 10.71.48.6 u77777244 [10.71.48.6|get|0|4597|0|0|0|2f6373732f706f6c696365732f6e6f7465746869735f726567756c61725f6d6163726f6d616e2f73706563696d656e5f66696c65732f677269645f31322d3832352d35352d31352e637373|]
+Feb  1 03:00:41 10.71.48.6 u77777244 close "/css/polices/notethis_regular_macroman/specimen_files/easytabs.js" bytes read 1082 written 0
+Feb  1 03:00:41 10.71.48.6 u77777244 [10.71.48.6|get|0|1082|0|0|0|2f6373732f706f6c696365732f6e6f7465746869735f726567756c61725f6d6163726f6d616e2f73706563696d656e5f66696c65732f65617379746162732e6a73|]
+Feb  1 03:00:42 10.71.48.6 u77777244 open "/images/endermolift.png" flags READ mode 0666
+Feb  1 03:00:42 10.71.48.6 u77777244 open "/images/lpg.jpg" flags READ mode 0666
+Feb  1 03:00:42 10.71.48.6 u77777244 close "/images/endermolift.png" bytes read 287495 written 0
+Feb  1 03:00:42 10.71.48.6 u77777244 [10.71.48.6|get|0|287495|0|0|0|2f696d616765732f656e6465726d6f6c6966742e706e67|]
+Feb  1 03:00:42 10.71.48.6 u77777244 close "/images/lpg.jpg" bytes read 59563 written 0
+Feb  1 03:00:42 10.71.48.6 u77777244 [10.71.48.6|get|0|59563|0|0|0|2f696d616765732f6c70672e6a7067|]
+Feb  1 03:00:43 10.71.48.6 u77777244 open "/images/favicon.ico" flags READ mode 0666
+Feb  1 03:00:43 10.71.48.6 u77777244 open "/images/wishpro.jpg" flags READ mode 0666
+Feb  1 03:00:43 10.71.48.6 u77777244 close "/images/favicon.ico" bytes read 1150 written 0
+Feb  1 03:00:43 10.71.48.6 u77777244 [10.71.48.6|get|0|1150|0|0|0|2f696d616765732f66617669636f6e2e69636f|]
+Feb  1 03:00:43 10.71.48.6 u77777244 close "/images/wishpro.jpg" bytes read 99050 written 0
+Feb  1 03:00:43 10.71.48.6 u77777244 [10.71.48.6|get|0|99050|0|0|0|2f696d616765732f7769736870726f2e6a7067|]
+Feb  1 03:00:43 10.71.48.6 u77777244 open "/images/vimeo_32.png" flags READ mode 0666
+Feb  1 03:00:44 10.71.48.6 u77777244 open "/images/twitter_32.png" flags READ mode 0666
+Feb  1 03:00:44 10.71.48.6 u77777244 close "/images/vimeo_32.png" bytes read 1607 written 0
+Feb  1 03:00:44 10.71.48.6 u77777244 [10.71.48.6|get|1|1607|0|0|0|2f696d616765732f76696d656f5f33322e706e67|]
+Feb  1 03:00:44 10.71.48.6 u77777244 close "/images/twitter_32.png" bytes read 1389 written 0
+Feb  1 03:00:44 10.71.48.6 u77777244 [10.71.48.6|get|0|1389|0|0|0|2f696d616765732f747769747465725f33322e706e67|]
+Feb  1 03:00:44 10.71.48.6 u77777244 open "/images/time2.png" flags READ mode 0666
+Feb  1 03:00:44 10.71.48.6 u77777244 open "/images/time.png" flags READ mode 0666
+Feb  1 03:00:45 10.71.48.6 u77777244 close "/images/time2.png" bytes read 4195 written 0
+Feb  1 03:00:45 10.71.48.6 u77777244 [10.71.48.6|get|1|4195|0|0|0|2f696d616765732f74696d65322e706e67|]
+Feb  1 03:00:45 10.71.48.6 u77777244 close "/images/time.png" bytes read 4193 written 0
+Feb  1 03:00:45 10.71.48.6 u77777244 [10.71.48.6|get|1|4193|0|0|0|2f696d616765732f74696d652e706e67|]
+Feb  1 03:00:45 10.71.48.6 u77777244 open "/images/skype_32.png" flags READ mode 0666
+Feb  1 03:00:45 10.71.48.6 u77777244 open "/images/prev.png" flags READ mode 0666
+Feb  1 03:00:45 10.71.48.6 u77777244 close "/images/skype_32.png" bytes read 1683 written 0
+Feb  1 03:00:45 10.71.48.6 u77777244 [10.71.48.6|get|0|1683|0|0|0|2f696d616765732f736b7970655f33322e706e67|]
+Feb  1 03:00:45 10.71.48.6 u77777244 close "/images/prev.png" bytes read 3625 written 0
+Feb  1 03:00:45 10.71.48.6 u77777244 [10.71.48.6|get|0|3625|0|0|0|2f696d616765732f707265762e706e67|]
+Feb  1 03:00:46 10.71.48.6 u77777244 open "/images/play.png" flags READ mode 0666
+Feb  1 03:00:46 10.71.48.6 u77777244 open "/images/phone2.png" flags READ mode 0666
+Feb  1 03:00:46 10.71.48.6 u77777244 close "/images/phone2.png" bytes read 3588 written 0
+Feb  1 03:00:46 10.71.48.6 u77777244 [10.71.48.6|get|0|3588|0|0|0|2f696d616765732f70686f6e65322e706e67|]
+Feb  1 03:00:46 10.71.48.6 u77777244 close "/images/play.png" bytes read 3641 written 0
+Feb  1 03:00:46 10.71.48.6 u77777244 [10.71.48.6|get|0|3641|0|0|0|2f696d616765732f706c61792e706e67|]
+Feb  1 03:00:47 10.71.48.6 u77777244 open "/images/phone.png" flags READ mode 0666
+Feb  1 03:00:47 10.71.48.6 u77777244 open "/images/pause.png" flags READ mode 0666
+Feb  1 03:00:47 10.71.48.6 u77777244 close "/images/phone.png" bytes read 3545 written 0
+Feb  1 03:00:47 10.71.48.6 u77777244 [10.71.48.6|get|0|3545|0|0|0|2f696d616765732f70686f6e652e706e67|]
+Feb  1 03:00:47 10.71.48.6 u77777244 close "/images/pause.png" bytes read 1298 written 0
+Feb  1 03:00:47 10.71.48.6 u77777244 [10.71.48.6|get|0|1298|0|0|0|2f696d616765732f70617573652e706e67|]
+Feb  1 03:00:47 10.71.48.6 u77777244 open "/images/next.png" flags READ mode 0666
+Feb  1 03:00:48 10.71.48.6 u77777244 open "/images/mains.jpg" flags READ mode 0666
+Feb  1 03:00:48 10.71.48.6 u77777244 close "/images/mains.jpg" bytes read 15218 written 0
+Feb  1 03:00:48 10.71.48.6 u77777244 [10.71.48.6|get|0|15218|0|0|0|2f696d616765732f6d61696e732e6a7067|]
+Feb  1 03:00:48 10.71.48.6 u77777244 close "/images/next.png" bytes read 2060 written 0
+Feb  1 03:00:48 10.71.48.6 u77777244 [10.71.48.6|get|1|2060|0|0|0|2f696d616765732f6e6578742e706e67|]
+Feb  1 03:00:48 10.71.48.6 u77777244 open "/images/linkedin_32.png" flags READ mode 0666
+Feb  1 03:00:48 10.71.48.6 u77777244 open "/images/lines_dark.png" flags READ mode 0666
+Feb  1 03:00:49 10.71.48.6 u77777244 close "/images/linkedin_32.png" bytes read 1452 written 0
+Feb  1 03:00:49 10.71.48.6 u77777244 [10.71.48.6|get|1|1452|0|0|0|2f696d616765732f6c696e6b6564696e5f33322e706e67|]
+Feb  1 03:00:49 10.71.48.6 u77777244 close "/images/lines_dark.png" bytes read 134 written 0
+Feb  1 03:00:49 10.71.48.6 u77777244 [10.71.48.6|get|1|134|0|0|0|2f696d616765732f6c696e65735f6461726b2e706e67|]
+Feb  1 03:00:49 10.71.48.6 u77777244 open "/images/lines.png" flags READ mode 0666
+Feb  1 03:00:49 10.71.48.6 u77777244 open "/images/line.png" flags READ mode 0666
+Feb  1 03:00:49 10.71.48.6 u77777244 close "/images/lines.png" bytes read 2868 written 0
+Feb  1 03:00:49 10.71.48.6 u77777244 [10.71.48.6|get|0|2868|0|0|0|2f696d616765732f6c696e65732e706e67|]
+Feb  1 03:00:49 10.71.48.6 u77777244 close "/images/line.png" bytes read 2794 written 0
+Feb  1 03:00:49 10.71.48.6 u77777244 [10.71.48.6|get|0|2794|0|0|0|2f696d616765732f6c696e652e706e67|]
+Feb  1 03:00:50 10.71.48.6 u77777244 open "/images/home2.png" flags READ mode 0666
+Feb  1 03:00:50 10.71.48.6 u77777244 open "/images/home.png" flags READ mode 0666
+Feb  1 03:00:50 10.71.48.6 u77777244 close "/images/home2.png" bytes read 5698 written 0
+Feb  1 03:00:50 10.71.48.6 u77777244 [10.71.48.6|get|0|5698|0|0|0|2f696d616765732f686f6d65322e706e67|]
+Feb  1 03:00:50 10.71.48.6 u77777244 close "/images/home.png" bytes read 3103 written 0
+Feb  1 03:00:50 10.71.48.6 u77777244 [10.71.48.6|get|0|3103|0|0|0|2f696d616765732f686f6d652e706e67|]
+Feb  1 03:00:50 10.71.48.6 u77777244 open "/images/forward.png" flags READ mode 0666
+Feb  1 03:00:50 10.71.48.6 u77777244 open "/images/fond_gris.png" flags READ mode 0666
+Feb  1 03:00:51 10.71.48.6 u77777244 close "/images/forward.png" bytes read 2060 written 0
+Feb  1 03:00:51 10.71.48.6 u77777244 [10.71.48.6|get|1|2060|0|0|0|2f696d616765732f666f72776172642e706e67|]
+Feb  1 03:00:51 10.71.48.6 u77777244 close "/images/fond_gris.png" bytes read 9106 written 0
+Feb  1 03:00:51 10.71.48.6 u77777244 [10.71.48.6|get|1|9106|0|0|0|2f696d616765732f666f6e645f677269732e706e67|]
+Feb  1 03:00:51 10.71.48.6 u77777244 open "/images/fondiegd.png" flags READ mode 0666
+Feb  1 03:00:51 10.71.48.6 u77777244 open "/images/fond_cybel_2.jpg" flags READ mode 0666
+Feb  1 03:00:52 10.71.48.6 u77777244 close "/images/fond_cybel_2.jpg" bytes read 147561 written 0
+Feb  1 03:00:52 10.71.48.6 u77777244 [10.71.48.6|get|1|147561|0|0|0|2f696d616765732f666f6e645f637962656c5f322e6a7067|]
+Feb  1 03:00:52 10.71.48.6 u77777244 close "/images/fondiegd.png" bytes read 1430122 written 0
+Feb  1 03:00:52 10.71.48.6 u77777244 [10.71.48.6|get|1|1430122|0|0|0|2f696d616765732f666f6e64696567642e706e67|]
+Feb  1 03:00:52 10.71.48.6 u77777244 open "/images/fondie.png" flags READ mode 0666
+Feb  1 03:00:53 10.71.48.6 u77777244 open "/images/fond.png" flags READ mode 0666
+Feb  1 03:00:54 10.71.48.6 u77777244 close "/images/fond.png" bytes read 3169875 written 0
+Feb  1 03:00:54 10.71.48.6 u77777244 [10.71.48.6|get|1|3169875|0|0|0|2f696d616765732f666f6e642e706e67|]
+Feb  1 03:00:54 10.71.48.6 u77777244 open "/images/fond.jpg" flags READ mode 0666
+Feb  1 03:00:55 10.71.48.6 u77777244 close "/images/fond.jpg" bytes read 1045566 written 0
+Feb  1 03:00:55 10.71.48.6 u77777244 [10.71.48.6|get|1|1045566|0|0|0|2f696d616765732f666f6e642e6a7067|]
+Feb  1 03:00:55 10.71.48.6 u77777244 open "/images/faviconcybel.png" flags READ mode 0666
+Feb  1 03:00:56 10.71.48.6 u77777244 close "/images/faviconcybel.png" bytes read 402 written 0
+Feb  1 03:00:56 10.71.48.6 u77777244 [10.71.48.6|get|1|402|0|0|0|2f696d616765732f66617669636f6e637962656c2e706e67|]
+Feb  1 03:00:56 10.71.48.6 u77777244 open "/images/facebook_32.png" flags READ mode 0666
+Feb  1 03:00:57 10.71.48.6 u77777244 close "/images/facebook_32.png" bytes read 1412 written 0
+Feb  1 03:00:57 10.71.48.6 u77777244 [10.71.48.6|get|0|1412|0|0|0|2f696d616765732f66616365626f6f6b5f33322e706e67|]
+Feb  1 03:00:57 10.71.48.6 u77777244 open "/images/email_32.png" flags READ mode 0666
+Feb  1 03:00:57 10.71.48.6 u77777244 close "/images/fondie.png" bytes read 991721 written 0
+Feb  1 03:00:57 10.71.48.6 u77777244 [10.71.48.6|get|5|991721|0|0|0|2f696d616765732f666f6e6469652e706e67|]
+Feb  1 03:00:57 10.71.48.6 u77777244 close "/images/email_32.png" bytes read 1802 written 0
+Feb  1 03:00:57 10.71.48.6 u77777244 [10.71.48.6|get|0|1802|0|0|0|2f696d616765732f656d61696c5f33322e706e67|]
+Feb  1 03:00:57 10.71.48.6 u77777244 open "/images/digg_32.png" flags READ mode 0666
+Feb  1 03:00:58 10.71.48.6 u77777244 open "/images/cybel_facade_flou2.jpg" flags READ mode 0666
+Feb  1 03:00:58 10.71.48.6 u77777244 close "/images/digg_32.png" bytes read 1454 written 0
+Feb  1 03:00:58 10.71.48.6 u77777244 [10.71.48.6|get|1|1454|0|0|0|2f696d616765732f646967675f33322e706e67|]
+Feb  1 03:00:58 10.71.48.6 u77777244 close "/images/cybel_facade_flou2.jpg" bytes read 75502 written 0
+Feb  1 03:00:58 10.71.48.6 u77777244 [10.71.48.6|get|0|75502|0|0|0|2f696d616765732f637962656c5f6661636164655f666c6f75322e6a7067|]
+Feb  1 03:00:58 10.71.48.6 u77777244 open "/images/cybel_facade_flou.jpg" flags READ mode 0666
+Feb  1 03:00:58 10.71.48.6 u77777244 open "/images/bg.jpg" flags READ mode 0666
+Feb  1 03:00:59 10.71.48.6 u77777244 close "/images/cybel_facade_flou.jpg" bytes read 89274 written 0
+Feb  1 03:00:59 10.71.48.6 u77777244 [10.71.48.6|get|1|89274|0|0|0|2f696d616765732f637962656c5f6661636164655f666c6f752e6a7067|]
+Feb  1 03:00:59 10.71.48.6 u77777244 close "/images/bg.jpg" bytes read 3503 written 0
+Feb  1 03:00:59 10.71.48.6 u77777244 [10.71.48.6|get|1|3503|0|0|0|2f696d616765732f62672e6a7067|]
+Feb  1 03:00:59 10.71.48.6 u77777244 open "/images/arrow_down.png" flags READ mode 0666
+Feb  1 03:00:59 10.71.48.6 u77777244 close "/images/arrow_down.png" bytes read 359 written 0
+Feb  1 03:00:59 10.71.48.6 u77777244 [10.71.48.6|get|0|359|0|0|0|2f696d616765732f6172726f775f646f776e2e706e67|]
+Feb  1 03:00:59 10.71.48.6 u77777244 open "/images/photos_acce/acc9.jpg" flags READ mode 0666
+Feb  1 03:01:00 10.71.48.6 u77777244 close "/images/photos_acce/acc9.jpg" bytes read 25686 written 0
+Feb  1 03:01:00 10.71.48.6 u77777244 [10.71.48.6|get|1|25686|0|0|0|2f696d616765732f70686f746f735f616363652f616363392e6a7067|]
+Feb  1 03:01:00 10.71.48.6 u77777244 open "/images/photos_acce/acc8.jpg" flags READ mode 0666
+Feb  1 03:01:00 10.71.48.6 u77777244 open "/images/photos_acce/acc7.jpg" flags READ mode 0666
+Feb  1 03:01:00 10.71.48.6 u77777244 close "/images/photos_acce/acc8.jpg" bytes read 20955 written 0
+Feb  1 03:01:00 10.71.48.6 u77777244 [10.71.48.6|get|0|20955|0|0|0|2f696d616765732f70686f746f735f616363652f616363382e6a7067|]
+Feb  1 03:01:01 10.71.48.6 u77777244 close "/images/photos_acce/acc7.jpg" bytes read 20267 written 0
+Feb  1 03:01:01 10.71.48.6 u77777244 [10.71.48.6|get|1|20267|0|0|0|2f696d616765732f70686f746f735f616363652f616363372e6a7067|]
+Feb  1 03:01:01 10.71.48.6 u77777244 open "/images/photos_acce/acc6.jpg" flags READ mode 0666
+Feb  1 03:01:01 10.71.48.6 u77777244 open "/images/photos_acce/acc5.jpg" flags READ mode 0666
+Feb  1 03:01:01 10.71.48.6 u77777244 close "/images/photos_acce/acc5.jpg" bytes read 28475 written 0
+Feb  1 03:01:01 10.71.48.6 u77777244 [10.71.48.6|get|0|28475|0|0|0|2f696d616765732f70686f746f735f616363652f616363352e6a7067|]
+Feb  1 03:01:02 10.71.48.6 u77777244 close "/images/photos_acce/acc6.jpg" bytes read 25390 written 0
+Feb  1 03:01:02 10.71.48.6 u77777244 [10.71.48.6|get|1|25390|0|0|0|2f696d616765732f70686f746f735f616363652f616363362e6a7067|]
+Feb  1 03:01:02 10.71.48.6 u77777244 open "/images/photos_acce/acc4.jpg" flags READ mode 0666
+Feb  1 03:01:02 10.71.48.6 u77777244 open "/images/photos_acce/acc3.jpg" flags READ mode 0666
+Feb  1 03:01:02 10.71.48.6 u77777244 close "/images/photos_acce/acc4.jpg" bytes read 22501 written 0
+Feb  1 03:01:02 10.71.48.6 u77777244 [10.71.48.6|get|0|22501|0|0|0|2f696d616765732f70686f746f735f616363652f616363342e6a7067|]
+Feb  1 03:01:02 10.71.48.6 u77777244 close "/images/photos_acce/acc3.jpg" bytes read 27198 written 0
+Feb  1 03:01:02 10.71.48.6 u77777244 [10.71.48.6|get|0|27198|0|0|0|2f696d616765732f70686f746f735f616363652f616363332e6a7067|]
+Feb  1 03:01:03 10.71.48.6 u77777244 open "/images/photos_acce/acc2.jpg" flags READ mode 0666
+Feb  1 03:01:03 10.71.48.6 u77777244 open "/images/photos_acce/acc13.jpg" flags READ mode 0666
+Feb  1 03:01:03 10.71.48.6 u77777244 close "/images/photos_acce/acc2.jpg" bytes read 29062 written 0
+Feb  1 03:01:03 10.71.48.6 u77777244 [10.71.48.6|get|1|29062|0|0|0|2f696d616765732f70686f746f735f616363652f616363322e6a7067|]
+Feb  1 03:01:03 10.71.48.6 u77777244 close "/images/photos_acce/acc13.jpg" bytes read 31179 written 0
+Feb  1 03:01:03 10.71.48.6 u77777244 [10.71.48.6|get|0|31179|0|0|0|2f696d616765732f70686f746f735f616363652f61636331332e6a7067|]
+Feb  1 03:01:03 10.71.48.6 u77777244 open "/images/photos_acce/acc12.jpg" flags READ mode 0666
+Feb  1 03:01:04 10.71.48.6 u77777244 open "/images/photos_acce/acc11.jpg" flags READ mode 0666
+Feb  1 03:01:04 10.71.48.6 u77777244 close "/images/photos_acce/acc12.jpg" bytes read 24248 written 0
+Feb  1 03:01:04 10.71.48.6 u77777244 [10.71.48.6|get|1|24248|0|0|0|2f696d616765732f70686f746f735f616363652f61636331322e6a7067|]
+Feb  1 03:01:04 10.71.48.6 u77777244 close "/images/photos_acce/acc11.jpg" bytes read 26041 written 0
+Feb  1 03:01:04 10.71.48.6 u77777244 [10.71.48.6|get|0|26041|0|0|0|2f696d616765732f70686f746f735f616363652f61636331312e6a7067|]
+Feb  1 03:01:04 10.71.48.6 u77777244 open "/images/photos_acce/acc10.jpg" flags READ mode 0666
+Feb  1 03:01:04 10.71.48.6 u77777244 open "/images/photos_acce/acc1.jpg" flags READ mode 0666
+Feb  1 03:01:04 10.71.48.6 u77777244 close "/images/photos_acce/acc10.jpg" bytes read 32352 written 0
+Feb  1 03:01:04 10.71.48.6 u77777244 [10.71.48.6|get|0|32352|0|0|0|2f696d616765732f70686f746f735f616363652f61636331302e6a7067|]
+Feb  1 03:01:05 10.71.48.6 u77777244 close "/images/photos_acce/acc1.jpg" bytes read 29349 written 0
+Feb  1 03:01:05 10.71.48.6 u77777244 [10.71.48.6|get|1|29349|0|0|0|2f696d616765732f70686f746f735f616363652f616363312e6a7067|]
+Feb  1 03:01:05 10.71.48.6 u77777244 open "/images/photos_mag/rayon4.jpg" flags READ mode 0666
+Feb  1 03:01:05 10.71.48.6 u77777244 open "/images/photos_mag/rayon3.jpg" flags READ mode 0666
+Feb  1 03:01:05 10.71.48.6 u77777244 close "/images/photos_mag/rayon4.jpg" bytes read 48970 written 0
+Feb  1 03:01:05 10.71.48.6 u77777244 [10.71.48.6|get|0|48970|0|0|0|2f696d616765732f70686f746f735f6d61672f7261796f6e342e6a7067|]
+Feb  1 03:01:06 10.71.48.6 u77777244 open "/images/photos_mag/rayon2.jpg" flags READ mode 0666
+Feb  1 03:01:06 10.71.48.6 u77777244 close "/images/photos_mag/rayon3.jpg" bytes read 49624 written 0
+Feb  1 03:01:06 10.71.48.6 u77777244 [10.71.48.6|get|1|49624|0|0|0|2f696d616765732f70686f746f735f6d61672f7261796f6e332e6a7067|]
+Feb  1 03:01:06 10.71.48.6 u77777244 open "/images/photos_mag/rayon1.jpg" flags READ mode 0666
+Feb  1 03:01:06 10.71.48.6 u77777244 close "/images/photos_mag/rayon2.jpg" bytes read 46059 written 0
+Feb  1 03:01:06 10.71.48.6 u77777244 [10.71.48.6|get|0|46059|0|0|0|2f696d616765732f70686f746f735f6d61672f7261796f6e322e6a7067|]
+Feb  1 03:01:07 10.71.48.6 u77777244 open "/images/photos_mag/logo.jpg" flags READ mode 0666
+Feb  1 03:01:07 10.71.48.6 u77777244 close "/images/photos_mag/rayon1.jpg" bytes read 42661 written 0
+Feb  1 03:01:07 10.71.48.6 u77777244 [10.71.48.6|get|1|42661|0|0|0|2f696d616765732f70686f746f735f6d61672f7261796f6e312e6a7067|]
+Feb  1 03:01:07 10.71.48.6 u77777244 close "/images/photos_mag/logo.jpg" bytes read 35217 written 0
+Feb  1 03:01:07 10.71.48.6 u77777244 [10.71.48.6|get|0|35217|0|0|0|2f696d616765732f70686f746f735f6d61672f6c6f676f2e6a7067|]
+Feb  1 03:01:07 10.71.48.6 u77777244 open "/images/photos_mag/fac_mor3.jpg" flags READ mode 0666
+Feb  1 03:01:07 10.71.48.6 u77777244 open "/images/photos_mag/fac_mor2.jpg" flags READ mode 0666
+Feb  1 03:01:07 10.71.48.6 u77777244 close "/images/photos_mag/fac_mor3.jpg" bytes read 38617 written 0
+Feb  1 03:01:07 10.71.48.6 u77777244 [10.71.48.6|get|0|38617|0|0|0|2f696d616765732f70686f746f735f6d61672f6661635f6d6f72332e6a7067|]
+Feb  1 03:01:08 10.71.48.6 u77777244 close "/images/photos_mag/fac_mor2.jpg" bytes read 36869 written 0
+Feb  1 03:01:08 10.71.48.6 u77777244 [10.71.48.6|get|1|36869|0|0|0|2f696d616765732f70686f746f735f6d61672f6661635f6d6f72322e6a7067|]
+Feb  1 03:01:08 10.71.48.6 u77777244 open "/images/photos_mag/fac_mor1.jpg" flags READ mode 0666
+Feb  1 03:01:08 10.71.48.6 u77777244 open "/images/photos_mag/facade1_centre.jpg" flags READ mode 0666
+Feb  1 03:01:08 10.71.48.6 u77777244 close "/images/photos_mag/fac_mor1.jpg" bytes read 34442 written 0
+Feb  1 03:01:08 10.71.48.6 u77777244 [10.71.48.6|get|0|34442|0|0|0|2f696d616765732f70686f746f735f6d61672f6661635f6d6f72312e6a7067|]
+Feb  1 03:01:09 10.71.48.6 u77777244 open "/images/photos_mag/facade1.jpg" flags READ mode 0666
+Feb  1 03:01:09 10.71.48.6 u77777244 close "/images/photos_mag/facade1_centre.jpg" bytes read 440049 written 0
+Feb  1 03:01:09 10.71.48.6 u77777244 [10.71.48.6|get|1|440049|0|0|0|2f696d616765732f70686f746f735f6d61672f666163616465315f63656e7472652e6a7067|]
+Feb  1 03:01:09 10.71.48.6 u77777244 open "/images/photos_mag/comptoir3.jpg" flags READ mode 0666
+Feb  1 03:01:09 10.71.48.6 u77777244 close "/images/photos_mag/comptoir3.jpg" bytes read 42261 written 0
+Feb  1 03:01:09 10.71.48.6 u77777244 [10.71.48.6|get|0|42261|0|0|0|2f696d616765732f70686f746f735f6d61672f636f6d70746f6972332e6a7067|]
+Feb  1 03:01:10 10.71.48.6 u77777244 open "/images/photos_mag/comptoir2.jpg" flags READ mode 0666
+Feb  1 03:01:10 10.71.48.6 u77777244 close "/images/photos_mag/comptoir2.jpg" bytes read 47873 written 0
+Feb  1 03:01:10 10.71.48.6 u77777244 [10.71.48.6|get|0|47873|0|0|0|2f696d616765732f70686f746f735f6d61672f636f6d70746f6972322e6a7067|]
+Feb  1 03:01:10 10.71.48.6 u77777244 close "/images/photos_mag/facade1.jpg" bytes read 1130249 written 0
+Feb  1 03:01:10 10.71.48.6 u77777244 [10.71.48.6|get|1|1130249|0|0|0|2f696d616765732f70686f746f735f6d61672f666163616465312e6a7067|]
+Feb  1 03:01:11 10.71.48.6 u77777244 open "/images/photos_mag/comptoir1.jpg" flags READ mode 0666
+Feb  1 03:01:11 10.71.48.6 u77777244 open "/images/photos_mag/cabine7.JPG" flags READ mode 0666
+Feb  1 03:01:11 10.71.48.6 u77777244 close "/images/photos_mag/comptoir1.jpg" bytes read 63445 written 0
+Feb  1 03:01:11 10.71.48.6 u77777244 [10.71.48.6|get|0|63445|0|0|0|2f696d616765732f70686f746f735f6d61672f636f6d70746f6972312e6a7067|]
+Feb  1 03:01:11 10.71.48.6 u77777244 close "/images/photos_mag/cabine7.JPG" bytes read 32198 written 0
+Feb  1 03:01:11 10.71.48.6 u77777244 [10.71.48.6|get|0|32198|0|0|0|2f696d616765732f70686f746f735f6d61672f636162696e65372e4a5047|]
+Feb  1 03:01:11 10.71.48.6 u77777244 open "/images/photos_mag/cabine6.jpg" flags READ mode 0666
+Feb  1 03:01:12 10.71.48.6 u77777244 open "/images/photos_mag/cabine5.jpg" flags READ mode 0666
+Feb  1 03:01:12 10.71.48.6 u77777244 close "/images/photos_mag/cabine6.jpg" bytes read 35253 written 0
+Feb  1 03:01:12 10.71.48.6 u77777244 [10.71.48.6|get|1|35253|0|0|0|2f696d616765732f70686f746f735f6d61672f636162696e65362e6a7067|]
+Feb  1 03:01:12 10.71.48.6 u77777244 close "/images/photos_mag/cabine5.jpg" bytes read 34264 written 0
+Feb  1 03:01:12 10.71.48.6 u77777244 [10.71.48.6|get|0|34264|0|0|0|2f696d616765732f70686f746f735f6d61672f636162696e65352e6a7067|]
+Feb  1 03:01:12 10.71.48.6 u77777244 open "/images/photos_mag/cabine4.jpg" flags READ mode 0666
+Feb  1 03:01:12 10.71.48.6 u77777244 open "/images/photos_mag/cabine3.jpg" flags READ mode 0666
+Feb  1 03:01:12 10.71.48.6 u77777244 close "/images/photos_mag/cabine4.jpg" bytes read 33611 written 0
+Feb  1 03:01:12 10.71.48.6 u77777244 [10.71.48.6|get|0|33611|0|0|0|2f696d616765732f70686f746f735f6d61672f636162696e65342e6a7067|]
+Feb  1 03:01:13 10.71.48.6 u77777244 close "/images/photos_mag/cabine3.jpg" bytes read 37037 written 0
+Feb  1 03:01:13 10.71.48.6 u77777244 [10.71.48.6|get|1|37037|0|0|0|2f696d616765732f70686f746f735f6d61672f636162696e65332e6a7067|]
+Feb  1 03:01:13 10.71.48.6 u77777244 open "/images/photos_mag/cabine2.jpg" flags READ mode 0666
+Feb  1 03:01:13 10.71.48.6 u77777244 open "/images/photos_mag/cabine1.jpg" flags READ mode 0666
+Feb  1 03:01:13 10.71.48.6 u77777244 close "/images/photos_mag/cabine2.jpg" bytes read 36868 written 0
+Feb  1 03:01:13 10.71.48.6 u77777244 [10.71.48.6|get|0|36868|0|0|0|2f696d616765732f70686f746f735f6d61672f636162696e65322e6a7067|]
+Feb  1 03:01:13 10.71.48.6 u77777244 close "/images/photos_mag/cabine1.jpg" bytes read 37140 written 0
+Feb  1 03:01:13 10.71.48.6 u77777244 [10.71.48.6|get|0|37140|0|0|0|2f696d616765732f70686f746f735f6d61672f636162696e65312e6a7067|]
+Feb  1 03:01:14 10.71.48.6 u77777244 open "/images/photos_mag/originales/DSCN4984.JPG" flags READ mode 0666
+Feb  1 03:01:14 10.71.48.6 u77777244 open "/images/photos_mag/originales/DSCN4983.JPG" flags READ mode 0666
+Feb  1 03:01:15 10.71.48.6 u77777244 close "/images/photos_mag/originales/DSCN4984.JPG" bytes read 1167925 written 0
+Feb  1 03:01:15 10.71.48.6 u77777244 [10.71.48.6|get|1|1167925|0|0|0|2f696d616765732f70686f746f735f6d61672f6f726967696e616c65732f4453434e343938342e4a5047|]
+Feb  1 03:01:15 10.71.48.6 u77777244 open "/images/photos_mag/originales/DSCN4960.JPG" flags READ mode 0666
+Feb  1 03:01:16 10.71.48.6 u77777244 close "/images/photos_mag/originales/DSCN4983.JPG" bytes read 1095696 written 0
+Feb  1 03:01:16 10.71.48.6 u77777244 [10.71.48.6|get|2|1095696|0|0|0|2f696d616765732f70686f746f735f6d61672f6f726967696e616c65732f4453434e343938332e4a5047|]
+Feb  1 03:01:16 10.71.48.6 u77777244 close "/images/photos_mag/originales/DSCN4960.JPG" bytes read 1175335 written 0
+Feb  1 03:01:16 10.71.48.6 u77777244 [10.71.48.6|get|1|1175335|0|0|0|2f696d616765732f70686f746f735f6d61672f6f726967696e616c65732f4453434e343936302e4a5047|]
+Feb  1 03:01:16 10.71.48.6 u77777244 open "/images/photos_mag/originales/DSCN4959.JPG" flags READ mode 0666
+Feb  1 03:01:16 10.71.48.6 u77777244 open "/images/photos_mag/originales/DSCN4957.JPG" flags READ mode 0666
+Feb  1 03:01:17 10.71.48.6 u77777244 close "/images/photos_mag/originales/DSCN4957.JPG" bytes read 1033626 written 0
+Feb  1 03:01:17 10.71.48.6 u77777244 [10.71.48.6|get|1|1033626|0|0|0|2f696d616765732f70686f746f735f6d61672f6f726967696e616c65732f4453434e343935372e4a5047|]
+Feb  1 03:01:18 10.71.48.6 u77777244 open "/images/photos_mag/originales/DSCN4958.JPG" flags READ mode 0666
+Feb  1 03:01:18 10.71.48.6 u77777244 close "/images/photos_mag/originales/DSCN4959.JPG" bytes read 1092585 written 0
+Feb  1 03:01:18 10.71.48.6 u77777244 [10.71.48.6|get|2|1092585|0|0|0|2f696d616765732f70686f746f735f6d61672f6f726967696e616c65732f4453434e343935392e4a5047|]
+Feb  1 03:01:18 10.71.48.6 u77777244 close "/images/photos_mag/originales/DSCN4958.JPG" bytes read 1159060 written 0
+Feb  1 03:01:18 10.71.48.6 u77777244 [10.71.48.6|get|0|1159060|0|0|0|2f696d616765732f70686f746f735f6d61672f6f726967696e616c65732f4453434e343935382e4a5047|]
+Feb  1 03:01:18 10.71.48.6 u77777244 open "/images/photos_parf/parf9.jpg" flags READ mode 0666
+Feb  1 03:01:19 10.71.48.6 u77777244 close "/images/photos_parf/parf9.jpg" bytes read 22076 written 0
+Feb  1 03:01:19 10.71.48.6 u77777244 [10.71.48.6|get|1|22076|0|0|0|2f696d616765732f70686f746f735f706172662f70617266392e6a7067|]
+Feb  1 03:01:19 10.71.48.6 u77777244 open "/images/photos_parf/parf8.jpg" flags READ mode 0666
+Feb  1 03:01:19 10.71.48.6 u77777244 open "/images/photos_parf/parf7.jpg" flags READ mode 0666
+Feb  1 03:01:19 10.71.48.6 u77777244 close "/images/photos_parf/parf8.jpg" bytes read 21455 written 0
+Feb  1 03:01:19 10.71.48.6 u77777244 [10.71.48.6|get|0|21455|0|0|0|2f696d616765732f70686f746f735f706172662f70617266382e6a7067|]
+Feb  1 03:01:19 10.71.48.6 u77777244 close "/images/photos_parf/parf7.jpg" bytes read 19186 written 0
+Feb  1 03:01:19 10.71.48.6 u77777244 [10.71.48.6|get|0|19186|0|0|0|2f696d616765732f70686f746f735f706172662f70617266372e6a7067|]
+Feb  1 03:01:20 10.71.48.6 u77777244 open "/images/photos_parf/parf6.jpg" flags READ mode 0666
+Feb  1 03:01:20 10.71.48.6 u77777244 open "/images/photos_parf/parf5.jpg" flags READ mode 0666
+Feb  1 03:01:20 10.71.48.6 u77777244 close "/images/photos_parf/parf6.jpg" bytes read 19088 written 0
+Feb  1 03:01:20 10.71.48.6 u77777244 [10.71.48.6|get|0|19088|0|0|0|2f696d616765732f70686f746f735f706172662f70617266362e6a7067|]
+Feb  1 03:01:20 10.71.48.6 u77777244 close "/images/photos_parf/parf5.jpg" bytes read 17159 written 0
+Feb  1 03:01:20 10.71.48.6 u77777244 [10.71.48.6|get|0|17159|0|0|0|2f696d616765732f70686f746f735f706172662f70617266352e6a7067|]
+Feb  1 03:01:20 10.71.48.6 u77777244 open "/images/photos_parf/parf4.jpg" flags READ mode 0666
+Feb  1 03:01:21 10.71.48.6 u77777244 open "/images/photos_parf/parf3.jpg" flags READ mode 0666
+Feb  1 03:01:21 10.71.48.6 u77777244 close "/images/photos_parf/parf4.jpg" bytes read 18834 written 0
+Feb  1 03:01:21 10.71.48.6 u77777244 [10.71.48.6|get|1|18834|0|0|0|2f696d616765732f70686f746f735f706172662f70617266342e6a7067|]
+Feb  1 03:01:21 10.71.48.6 u77777244 close "/images/photos_parf/parf3.jpg" bytes read 18624 written 0
+Feb  1 03:01:21 10.71.48.6 u77777244 [10.71.48.6|get|0|18624|0|0|0|2f696d616765732f70686f746f735f706172662f70617266332e6a7067|]
+Feb  1 03:01:21 10.71.48.6 u77777244 open "/images/photos_parf/parf21.jpg" flags READ mode 0666
+Feb  1 03:01:21 10.71.48.6 u77777244 open "/images/photos_parf/parf20.jpg" flags READ mode 0666
+Feb  1 03:01:22 10.71.48.6 u77777244 close "/images/photos_parf/parf21.jpg" bytes read 20256 written 0
+Feb  1 03:01:22 10.71.48.6 u77777244 [10.71.48.6|get|1|20256|0|0|0|2f696d616765732f70686f746f735f706172662f7061726632312e6a7067|]
+Feb  1 03:01:22 10.71.48.6 u77777244 close "/images/photos_parf/parf20.jpg" bytes read 19973 written 0
+Feb  1 03:01:22 10.71.48.6 u77777244 [10.71.48.6|get|1|19973|0|0|0|2f696d616765732f70686f746f735f706172662f7061726632302e6a7067|]
+Feb  1 03:01:22 10.71.48.6 u77777244 open "/images/photos_parf/parf2.jpg" flags READ mode 0666
+Feb  1 03:01:22 10.71.48.6 u77777244 open "/images/photos_parf/parf19.jpg" flags READ mode 0666
+Feb  1 03:01:22 10.71.48.6 u77777244 close "/images/photos_parf/parf2.jpg" bytes read 18679 written 0
+Feb  1 03:01:22 10.71.48.6 u77777244 [10.71.48.6|get|0|18679|0|0|0|2f696d616765732f70686f746f735f706172662f70617266322e6a7067|]
+Feb  1 03:01:22 10.71.48.6 u77777244 close "/images/photos_parf/parf19.jpg" bytes read 17533 written 0
+Feb  1 03:01:22 10.71.48.6 u77777244 [10.71.48.6|get|0|17533|0|0|0|2f696d616765732f70686f746f735f706172662f7061726631392e6a7067|]
+Feb  1 03:01:23 10.71.48.6 u77777244 open "/images/photos_parf/parf18.jpg" flags READ mode 0666
+Feb  1 03:01:23 10.71.48.6 u77777244 open "/images/photos_parf/parf17.jpg" flags READ mode 0666
+Feb  1 03:01:23 10.71.48.6 u77777244 close "/images/photos_parf/parf17.jpg" bytes read 16560 written 0
+Feb  1 03:01:23 10.71.48.6 u77777244 [10.71.48.6|get|0|16560|0|0|0|2f696d616765732f70686f746f735f706172662f7061726631372e6a7067|]
+Feb  1 03:01:23 10.71.48.6 u77777244 close "/images/photos_parf/parf18.jpg" bytes read 18339 written 0
+Feb  1 03:01:23 10.71.48.6 u77777244 [10.71.48.6|get|0|18339|0|0|0|2f696d616765732f70686f746f735f706172662f7061726631382e6a7067|]
+Feb  1 03:01:23 10.71.48.6 u77777244 open "/images/photos_parf/parf16.jpg" flags READ mode 0666
+Feb  1 03:01:24 10.71.48.6 u77777244 open "/images/photos_parf/parf15.jpg" flags READ mode 0666
+Feb  1 03:01:24 10.71.48.6 u77777244 close "/images/photos_parf/parf16.jpg" bytes read 16871 written 0
+Feb  1 03:01:24 10.71.48.6 u77777244 [10.71.48.6|get|1|16871|0|0|0|2f696d616765732f70686f746f735f706172662f7061726631362e6a7067|]
+Feb  1 03:01:24 10.71.48.6 u77777244 close "/images/photos_parf/parf15.jpg" bytes read 17082 written 0
+Feb  1 03:01:24 10.71.48.6 u77777244 [10.71.48.6|get|0|17082|0|0|0|2f696d616765732f70686f746f735f706172662f7061726631352e6a7067|]
+Feb  1 03:01:24 10.71.48.6 u77777244 open "/images/photos_parf/parf14.jpg" flags READ mode 0666
+Feb  1 03:01:24 10.71.48.6 u77777244 open "/images/photos_parf/parf13.jpg" flags READ mode 0666
+Feb  1 03:01:25 10.71.48.6 u77777244 close "/images/photos_parf/parf14.jpg" bytes read 21420 written 0
+Feb  1 03:01:25 10.71.48.6 u77777244 [10.71.48.6|get|1|21420|0|0|0|2f696d616765732f70686f746f735f706172662f7061726631342e6a7067|]
+Feb  1 03:01:25 10.71.48.6 u77777244 close "/images/photos_parf/parf13.jpg" bytes read 18046 written 0
+Feb  1 03:01:25 10.71.48.6 u77777244 [10.71.48.6|get|1|18046|0|0|0|2f696d616765732f70686f746f735f706172662f7061726631332e6a7067|]
+Feb  1 03:01:25 10.71.48.6 u77777244 open "/images/photos_parf/parf12.jpg" flags READ mode 0666
+Feb  1 03:01:25 10.71.48.6 u77777244 open "/images/photos_parf/parf11.jpg" flags READ mode 0666
+Feb  1 03:01:25 10.71.48.6 u77777244 close "/images/photos_parf/parf12.jpg" bytes read 19640 written 0
+Feb  1 03:01:25 10.71.48.6 u77777244 [10.71.48.6|get|0|19640|0|0|0|2f696d616765732f70686f746f735f706172662f7061726631322e6a7067|]
+Feb  1 03:01:25 10.71.48.6 u77777244 close "/images/photos_parf/parf11.jpg" bytes read 16967 written 0
+Feb  1 03:01:25 10.71.48.6 u77777244 [10.71.48.6|get|0|16967|0|0|0|2f696d616765732f70686f746f735f706172662f7061726631312e6a7067|]
+Feb  1 03:01:26 10.71.48.6 u77777244 open "/images/photos_parf/parf10.jpg" flags READ mode 0666
+Feb  1 03:01:26 10.71.48.6 u77777244 open "/images/photos_parf/parf1.jpg" flags READ mode 0666
+Feb  1 03:01:26 10.71.48.6 u77777244 close "/images/photos_parf/parf10.jpg" bytes read 20801 written 0
+Feb  1 03:01:26 10.71.48.6 u77777244 [10.71.48.6|get|0|20801|0|0|0|2f696d616765732f70686f746f735f706172662f7061726631302e6a7067|]
+Feb  1 03:01:26 10.71.48.6 u77777244 close "/images/photos_parf/parf1.jpg" bytes read 19419 written 0
+Feb  1 03:01:26 10.71.48.6 u77777244 [10.71.48.6|get|0|19419|0|0|0|2f696d616765732f70686f746f735f706172662f70617266312e6a7067|]
+Feb  1 03:01:26 10.71.48.6 u77777244 open "/images/photos_parf/m9.jpg" flags READ mode 0666
+Feb  1 03:01:26 10.71.48.6 u77777244 open "/images/photos_parf/m8.jpg" flags READ mode 0666
+Feb  1 03:01:27 10.71.48.6 u77777244 close "/images/photos_parf/m9.jpg" bytes read 9565 written 0
+Feb  1 03:01:27 10.71.48.6 u77777244 [10.71.48.6|get|1|9565|0|0|0|2f696d616765732f70686f746f735f706172662f6d392e6a7067|]
+Feb  1 03:01:27 10.71.48.6 u77777244 close "/images/photos_parf/m8.jpg" bytes read 6059 written 0
+Feb  1 03:01:27 10.71.48.6 u77777244 [10.71.48.6|get|1|6059|0|0|0|2f696d616765732f70686f746f735f706172662f6d382e6a7067|]
+Feb  1 03:01:27 10.71.48.6 u77777244 open "/images/photos_parf/m7.jpg" flags READ mode 0666
+Feb  1 03:01:27 10.71.48.6 u77777244 open "/images/photos_parf/m6.jpg" flags READ mode 0666
+Feb  1 03:01:28 10.71.48.6 u77777244 close "/images/photos_parf/m7.jpg" bytes read 2527 written 0
+Feb  1 03:01:28 10.71.48.6 u77777244 [10.71.48.6|get|1|2527|0|0|0|2f696d616765732f70686f746f735f706172662f6d372e6a7067|]
+Feb  1 03:01:28 10.71.48.6 u77777244 close "/images/photos_parf/m6.jpg" bytes read 2027 written 0
+Feb  1 03:01:28 10.71.48.6 u77777244 [10.71.48.6|get|1|2027|0|0|0|2f696d616765732f70686f746f735f706172662f6d362e6a7067|]
+Feb  1 03:01:28 10.71.48.6 u77777244 open "/images/photos_parf/m5.jpg" flags READ mode 0666
+Feb  1 03:01:28 10.71.48.6 u77777244 open "/images/photos_parf/m4.jpg" flags READ mode 0666
+Feb  1 03:01:28 10.71.48.6 u77777244 close "/images/photos_parf/m5.jpg" bytes read 1791 written 0
+Feb  1 03:01:28 10.71.48.6 u77777244 [10.71.48.6|get|0|1791|0|0|0|2f696d616765732f70686f746f735f706172662f6d352e6a7067|]
+Feb  1 03:01:28 10.71.48.6 u77777244 close "/images/photos_parf/m4.jpg" bytes read 1848 written 0
+Feb  1 03:01:28 10.71.48.6 u77777244 [10.71.48.6|get|0|1848|0|0|0|2f696d616765732f70686f746f735f706172662f6d342e6a7067|]
+Feb  1 03:01:29 10.71.48.6 u77777244 open "/images/photos_parf/m3.jpg" flags READ mode 0666
+Feb  1 03:01:29 10.71.48.6 u77777244 open "/images/photos_parf/m2.jpg" flags READ mode 0666
+Feb  1 03:01:29 10.71.48.6 u77777244 close "/images/photos_parf/m3.jpg" bytes read 2093 written 0
+Feb  1 03:01:29 10.71.48.6 u77777244 [10.71.48.6|get|0|2093|0|0|0|2f696d616765732f70686f746f735f706172662f6d332e6a7067|]
+Feb  1 03:01:29 10.71.48.6 u77777244 close "/images/photos_parf/m2.jpg" bytes read 7652 written 0
+Feb  1 03:01:29 10.71.48.6 u77777244 [10.71.48.6|get|0|7652|0|0|0|2f696d616765732f70686f746f735f706172662f6d322e6a7067|]
+Feb  1 03:01:29 10.71.48.6 u77777244 open "/images/photos_parf/m15.jpg" flags READ mode 0666
+Feb  1 03:01:29 10.71.48.6 u77777244 open "/images/photos_parf/m14.jpg" flags READ mode 0666
+Feb  1 03:01:30 10.71.48.6 u77777244 close "/images/photos_parf/m15.jpg" bytes read 2321 written 0
+Feb  1 03:01:30 10.71.48.6 u77777244 [10.71.48.6|get|1|2321|0|0|0|2f696d616765732f70686f746f735f706172662f6d31352e6a7067|]
+Feb  1 03:01:30 10.71.48.6 u77777244 close "/images/photos_parf/m14.jpg" bytes read 1888 written 0
+Feb  1 03:01:30 10.71.48.6 u77777244 [10.71.48.6|get|1|1888|0|0|0|2f696d616765732f70686f746f735f706172662f6d31342e6a7067|]
+Feb  1 03:01:30 10.71.48.6 u77777244 open "/images/photos_parf/m13.jpg" flags READ mode 0666
+Feb  1 03:01:30 10.71.48.6 u77777244 open "/images/photos_parf/m12.jpg" flags READ mode 0666
+Feb  1 03:01:30 10.71.48.6 u77777244 close "/images/photos_parf/m13.jpg" bytes read 1781 written 0
+Feb  1 03:01:30 10.71.48.6 u77777244 [10.71.48.6|get|0|1781|0|0|0|2f696d616765732f70686f746f735f706172662f6d31332e6a7067|]
+Feb  1 03:01:30 10.71.48.6 u77777244 close "/images/photos_parf/m12.jpg" bytes read 11895 written 0
+Feb  1 03:01:30 10.71.48.6 u77777244 [10.71.48.6|get|0|11895|0|0|0|2f696d616765732f70686f746f735f706172662f6d31322e6a7067|]
+Feb  1 03:01:31 10.71.48.6 u77777244 open "/images/photos_parf/m11.jpg" flags READ mode 0666
+Feb  1 03:01:31 10.71.48.6 u77777244 open "/images/photos_parf/m10.jpg" flags READ mode 0666
+Feb  1 03:01:31 10.71.48.6 u77777244 close "/images/photos_parf/m11.jpg" bytes read 5569 written 0
+Feb  1 03:01:31 10.71.48.6 u77777244 [10.71.48.6|get|0|5569|0|0|0|2f696d616765732f70686f746f735f706172662f6d31312e6a7067|]
+Feb  1 03:01:31 10.71.48.6 u77777244 close "/images/photos_parf/m10.jpg" bytes read 4345 written 0
+Feb  1 03:01:31 10.71.48.6 u77777244 [10.71.48.6|get|0|4345|0|0|0|2f696d616765732f70686f746f735f706172662f6d31302e6a7067|]
+Feb  1 03:01:32 10.71.48.6 u77777244 open "/images/photos_parf/m1.jpg" flags READ mode 0666
+Feb  1 03:01:32 10.71.48.6 u77777244 open "/images/photos_parf/hugo_boss.jpg" flags READ mode 0666
+Feb  1 03:01:32 10.71.48.6 u77777244 close "/images/photos_parf/m1.jpg" bytes read 1890 written 0
+Feb  1 03:01:32 10.71.48.6 u77777244 [10.71.48.6|get|0|1890|0|0|0|2f696d616765732f70686f746f735f706172662f6d312e6a7067|]
+Feb  1 03:01:32 10.71.48.6 u77777244 close "/images/photos_parf/hugo_boss.jpg" bytes read 2835 written 0
+Feb  1 03:01:32 10.71.48.6 u77777244 [10.71.48.6|get|0|2835|0|0|0|2f696d616765732f70686f746f735f706172662f6875676f5f626f73732e6a7067|]
+Feb  1 03:01:33 10.71.48.6 u77777244 open "/images/photos_site/9.jpg" flags READ mode 0666
+Feb  1 03:01:33 10.71.48.6 u77777244 open "/images/photos_site/8.jpg" flags READ mode 0666
+Feb  1 03:01:33 10.71.48.6 u77777244 close "/images/photos_site/9.jpg" bytes read 28074 written 0
+Feb  1 03:01:33 10.71.48.6 u77777244 [10.71.48.6|get|0|28074|0|0|0|2f696d616765732f70686f746f735f736974652f392e6a7067|]
+Feb  1 03:01:33 10.71.48.6 u77777244 close "/images/photos_site/8.jpg" bytes read 24376 written 0
+Feb  1 03:01:33 10.71.48.6 u77777244 [10.71.48.6|get|0|24376|0|0|0|2f696d616765732f70686f746f735f736974652f382e6a7067|]
+Feb  1 03:01:33 10.71.48.6 u77777244 open "/images/photos_site/7.jpg" flags READ mode 0666
+Feb  1 03:01:33 10.71.48.6 u77777244 open "/images/photos_site/6.jpg" flags READ mode 0666
+Feb  1 03:01:34 10.71.48.6 u77777244 close "/images/photos_site/7.jpg" bytes read 18397 written 0
+Feb  1 03:01:34 10.71.48.6 u77777244 [10.71.48.6|get|1|18397|0|0|0|2f696d616765732f70686f746f735f736974652f372e6a7067|]
+Feb  1 03:01:34 10.71.48.6 u77777244 close "/images/photos_site/6.jpg" bytes read 29731 written 0
+Feb  1 03:01:34 10.71.48.6 u77777244 [10.71.48.6|get|1|29731|0|0|0|2f696d616765732f70686f746f735f736974652f362e6a7067|]
+Feb  1 03:01:34 10.71.48.6 u77777244 open "/images/photos_site/5.jpg" flags READ mode 0666
+Feb  1 03:01:34 10.71.48.6 u77777244 open "/images/photos_site/4.jpg" flags READ mode 0666
+Feb  1 03:01:35 10.71.48.6 u77777244 close "/images/photos_site/5.jpg" bytes read 28569 written 0
+Feb  1 03:01:35 10.71.48.6 u77777244 [10.71.48.6|get|1|28569|0|0|0|2f696d616765732f70686f746f735f736974652f352e6a7067|]
+Feb  1 03:01:35 10.71.48.6 u77777244 close "/images/photos_site/4.jpg" bytes read 32226 written 0
+Feb  1 03:01:35 10.71.48.6 u77777244 [10.71.48.6|get|1|32226|0|0|0|2f696d616765732f70686f746f735f736974652f342e6a7067|]
+Feb  1 03:01:35 10.71.48.6 u77777244 open "/images/photos_site/3.jpg" flags READ mode 0666
+Feb  1 03:01:35 10.71.48.6 u77777244 open "/images/photos_site/2.jpg" flags READ mode 0666
+Feb  1 03:01:35 10.71.48.6 u77777244 close "/images/photos_site/3.jpg" bytes read 42521 written 0
+Feb  1 03:01:35 10.71.48.6 u77777244 [10.71.48.6|get|0|42521|0|0|0|2f696d616765732f70686f746f735f736974652f332e6a7067|]
+Feb  1 03:01:35 10.71.48.6 u77777244 close "/images/photos_site/2.jpg" bytes read 99675 written 0
+Feb  1 03:01:35 10.71.48.6 u77777244 [10.71.48.6|get|0|99675|0|0|0|2f696d616765732f70686f746f735f736974652f322e6a7067|]
+Feb  1 03:01:36 10.71.48.6 u77777244 open "/images/photos_site/16.jpg" flags READ mode 0666
+Feb  1 03:01:36 10.71.48.6 u77777244 open "/images/photos_site/15.jpg" flags READ mode 0666
+Feb  1 03:01:36 10.71.48.6 u77777244 close "/images/photos_site/16.jpg" bytes read 25833 written 0
+Feb  1 03:01:36 10.71.48.6 u77777244 [10.71.48.6|get|0|25833|0|0|0|2f696d616765732f70686f746f735f736974652f31362e6a7067|]
+Feb  1 03:01:36 10.71.48.6 u77777244 close "/images/photos_site/15.jpg" bytes read 23243 written 0
+Feb  1 03:01:36 10.71.48.6 u77777244 [10.71.48.6|get|0|23243|0|0|0|2f696d616765732f70686f746f735f736974652f31352e6a7067|]
+Feb  1 03:01:36 10.71.48.6 u77777244 open "/images/photos_site/14.jpg" flags READ mode 0666
+Feb  1 03:01:36 10.71.48.6 u77777244 open "/images/photos_site/13.jpg" flags READ mode 0666
+Feb  1 03:01:37 10.71.48.6 u77777244 close "/images/photos_site/13.jpg" bytes read 34817 written 0
+Feb  1 03:01:37 10.71.48.6 u77777244 [10.71.48.6|get|1|34817|0|0|0|2f696d616765732f70686f746f735f736974652f31332e6a7067|]
+Feb  1 03:01:37 10.71.48.6 u77777244 close "/images/photos_site/14.jpg" bytes read 82455 written 0
+Feb  1 03:01:37 10.71.48.6 u77777244 [10.71.48.6|get|1|82455|0|0|0|2f696d616765732f70686f746f735f736974652f31342e6a7067|]
+Feb  1 03:01:37 10.71.48.6 u77777244 open "/images/photos_site/12.jpg" flags READ mode 0666
+Feb  1 03:01:37 10.71.48.6 u77777244 open "/images/photos_site/11.jpg" flags READ mode 0666
+Feb  1 03:01:38 10.71.48.6 u77777244 close "/images/photos_site/12.jpg" bytes read 27756 written 0
+Feb  1 03:01:38 10.71.48.6 u77777244 [10.71.48.6|get|1|27756|0|0|0|2f696d616765732f70686f746f735f736974652f31322e6a7067|]
+Feb  1 03:01:38 10.71.48.6 u77777244 close "/images/photos_site/11.jpg" bytes read 23095 written 0
+Feb  1 03:01:38 10.71.48.6 u77777244 [10.71.48.6|get|1|23095|0|0|0|2f696d616765732f70686f746f735f736974652f31312e6a7067|]
+Feb  1 03:01:38 10.71.48.6 u77777244 open "/images/photos_site/10.jpg" flags READ mode 0666
+Feb  1 03:01:38 10.71.48.6 u77777244 open "/images/photos_site/1.jpg" flags READ mode 0666
+Feb  1 03:01:39 10.71.48.6 u77777244 close "/images/photos_site/1.jpg" bytes read 19855 written 0
+Feb  1 03:01:39 10.71.48.6 u77777244 [10.71.48.6|get|1|19855|0|0|0|2f696d616765732f70686f746f735f736974652f312e6a7067|]
+Feb  1 03:01:39 10.71.48.6 u77777244 close "/images/photos_site/10.jpg" bytes read 54502 written 0
+Feb  1 03:01:39 10.71.48.6 u77777244 [10.71.48.6|get|1|54502|0|0|0|2f696d616765732f70686f746f735f736974652f31302e6a7067|]
+Feb  1 03:01:39 10.71.48.6 u77777244 open "/images/photos_soins/cab7.jpg" flags READ mode 0666
+Feb  1 03:01:40 10.71.48.6 u77777244 open "/images/photos_soins/cab6.jpg" flags READ mode 0666
+Feb  1 03:01:40 10.71.48.6 u77777244 close "/images/photos_soins/cab7.jpg" bytes read 22873 written 0
+Feb  1 03:01:40 10.71.48.6 u77777244 [10.71.48.6|get|1|22873|0|0|0|2f696d616765732f70686f746f735f736f696e732f636162372e6a7067|]
+Feb  1 03:01:40 10.71.48.6 u77777244 close "/images/photos_soins/cab6.jpg" bytes read 20749 written 0
+Feb  1 03:01:40 10.71.48.6 u77777244 [10.71.48.6|get|0|20749|0|0|0|2f696d616765732f70686f746f735f736f696e732f636162362e6a7067|]
+Feb  1 03:01:40 10.71.48.6 u77777244 open "/images/photos_soins/cab5.jpg" flags READ mode 0666
+Feb  1 03:01:40 10.71.48.6 u77777244 open "/images/photos_soins/cab4.jpg" flags READ mode 0666
+Feb  1 03:01:41 10.71.48.6 u77777244 close "/images/photos_soins/cab5.jpg" bytes read 21891 written 0
+Feb  1 03:01:41 10.71.48.6 u77777244 [10.71.48.6|get|1|21891|0|0|0|2f696d616765732f70686f746f735f736f696e732f636162352e6a7067|]
+Feb  1 03:01:41 10.71.48.6 u77777244 close "/images/photos_soins/cab4.jpg" bytes read 23046 written 0
+Feb  1 03:01:41 10.71.48.6 u77777244 [10.71.48.6|get|1|23046|0|0|0|2f696d616765732f70686f746f735f736f696e732f636162342e6a7067|]
+Feb  1 03:01:41 10.71.48.6 u77777244 open "/images/photos_soins/cab3.jpg" flags READ mode 0666
+Feb  1 03:01:41 10.71.48.6 u77777244 open "/images/photos_soins/cab2.jpg" flags READ mode 0666
+Feb  1 03:01:41 10.71.48.6 u77777244 close "/images/photos_soins/cab3.jpg" bytes read 22278 written 0
+Feb  1 03:01:41 10.71.48.6 u77777244 [10.71.48.6|get|0|22278|0|0|0|2f696d616765732f70686f746f735f736f696e732f636162332e6a7067|]
+Feb  1 03:01:41 10.71.48.6 u77777244 close "/images/photos_soins/cab2.jpg" bytes read 23928 written 0
+Feb  1 03:01:41 10.71.48.6 u77777244 [10.71.48.6|get|0|23928|0|0|0|2f696d616765732f70686f746f735f736f696e732f636162322e6a7067|]
+Feb  1 03:01:42 10.71.48.6 u77777244 open "/images/photos_soins/cab1.jpg" flags READ mode 0666
+Feb  1 03:01:42 10.71.48.6 u77777244 close "/images/photos_soins/cab1.jpg" bytes read 24061 written 0
+Feb  1 03:01:42 10.71.48.6 u77777244 [10.71.48.6|get|0|24061|0|0|0|2f696d616765732f70686f746f735f736f696e732f636162312e6a7067|]
+Feb  1 03:01:42 10.71.48.6 u77777244 open "/js/main.js" flags READ mode 0666
+Feb  1 03:01:43 10.71.48.6 u77777244 close "/js/main.js" bytes read 893 written 0
+Feb  1 03:01:43 10.71.48.6 u77777244 [10.71.48.6|get|1|893|0|0|0|2f6a732f6d61696e2e6a73|]
+Feb  1 03:01:43 10.71.48.6 u77777244 open "/js/jquery.transform-0.9.3.min_.js" flags READ mode 0666
+Feb  1 03:01:43 10.71.48.6 u77777244 open "/js/jquery.RotateImageMenu.js" flags READ mode 0666
+Feb  1 03:01:44 10.71.48.6 u77777244 close "/js/jquery.transform-0.9.3.min_.js" bytes read 20260 written 0
+Feb  1 03:01:44 10.71.48.6 u77777244 [10.71.48.6|get|1|20260|0|0|0|2f6a732f6a71756572792e7472616e73666f726d2d302e392e332e6d696e5f2e6a73|]
+Feb  1 03:01:44 10.71.48.6 u77777244 close "/js/jquery.RotateImageMenu.js" bytes read 6850 written 0
+Feb  1 03:01:44 10.71.48.6 u77777244 [10.71.48.6|get|1|6850|0|0|0|2f6a732f6a71756572792e526f74617465496d6167654d656e752e6a73|]
+Feb  1 03:01:44 10.71.48.6 u77777244 open "/js/jquery.mousewheel.js" flags READ mode 0666
+Feb  1 03:01:44 10.71.48.6 u77777244 close "/js/jquery.mousewheel.js" bytes read 2235 written 0
+Feb  1 03:01:44 10.71.48.6 u77777244 [10.71.48.6|get|0|2235|0|0|0|2f6a732f6a71756572792e6d6f757365776865656c2e6a73|]
+Feb  1 03:01:45 10.71.48.6 u77777244 open "/js/carouFredSel-6.2.1/jquery.carouFredSel-6.2.1.js" flags READ mode 0666
+Feb  1 03:01:45 10.71.48.6 u77777244 close "/js/carouFredSel-6.2.1/jquery.carouFredSel-6.2.1.js" bytes read 91090 written 0
+Feb  1 03:01:45 10.71.48.6 u77777244 [10.71.48.6|get|0|91090|0|0|0|2f6a732f6361726f754672656453656c2d362e322e312f6a71756572792e6361726f754672656453656c2d362e322e312e6a73|]
+Feb  1 03:01:45 10.71.48.6 u77777244 open "/js/carouFredSel-6.2.1/jquery.carouFredSel-6.2.1-packed.js" flags READ mode 0666
+Feb  1 03:01:46 10.71.48.6 u77777244 open "/js/carouFredSel-6.2.1/jquery-1.8.2.min.js" flags READ mode 0666
+Feb  1 03:01:46 10.71.48.6 u77777244 close "/js/carouFredSel-6.2.1/jquery.carouFredSel-6.2.1-packed.js" bytes read 54780 written 0
+Feb  1 03:01:46 10.71.48.6 u77777244 [10.71.48.6|get|1|54780|0|0|0|2f6a732f6361726f754672656453656c2d362e322e312f6a71756572792e6361726f754672656453656c2d362e322e312d7061636b65642e6a73|]
+Feb  1 03:01:46 10.71.48.6 u77777244 close "/js/carouFredSel-6.2.1/jquery-1.8.2.min.js" bytes read 93436 written 0
+Feb  1 03:01:46 10.71.48.6 u77777244 [10.71.48.6|get|0|93436|0|0|0|2f6a732f6361726f754672656453656c2d362e322e312f6a71756572792d312e382e322e6d696e2e6a73|]
+Feb  1 03:01:46 10.71.48.6 u77777244 open "/js/carouFredSel-6.2.1/index.html" flags READ mode 0666
+Feb  1 03:01:46 10.71.48.6 u77777244 open "/js/carouFredSel-6.2.1/caroufredsel.js" flags READ mode 0666
+Feb  1 03:01:47 10.71.48.6 u77777244 close "/js/carouFredSel-6.2.1/index.html" bytes read 7710 written 0
+Feb  1 03:01:47 10.71.48.6 u77777244 [10.71.48.6|get|1|7710|0|0|0|2f6a732f6361726f754672656453656c2d362e322e312f696e6465782e68746d6c|]
+Feb  1 03:01:47 10.71.48.6 u77777244 close "/js/carouFredSel-6.2.1/caroufredsel.js" bytes read 54780 written 0
+Feb  1 03:01:47 10.71.48.6 u77777244 [10.71.48.6|get|1|54780|0|0|0|2f6a732f6361726f754672656453656c2d362e322e312f6361726f756672656473656c2e6a73|]
+Feb  1 03:01:47 10.71.48.6 u77777244 open "/js/carouFredSel-6.2.1/helper-plugins/jquery.transit.min.js" flags READ mode 0666
+Feb  1 03:01:48 10.71.48.6 u77777244 open "/js/carouFredSel-6.2.1/helper-plugins/jquery.touchSwipe.min.js" flags READ mode 0666
+Feb  1 03:01:48 10.71.48.6 u77777244 close "/js/carouFredSel-6.2.1/helper-plugins/jquery.transit.min.js" bytes read 7062 written 0
+Feb  1 03:01:48 10.71.48.6 u77777244 [10.71.48.6|get|1|7062|0|0|0|2f6a732f6361726f754672656453656c2d362e322e312f68656c7065722d706c7567696e732f6a71756572792e7472616e7369742e6d696e2e6a73|]
+Feb  1 03:01:48 10.71.48.6 u77777244 close "/js/carouFredSel-6.2.1/helper-plugins/jquery.touchSwipe.min.js" bytes read 4313 written 0
+Feb  1 03:01:48 10.71.48.6 u77777244 [10.71.48.6|get|0|4313|0|0|0|2f6a732f6361726f754672656453656c2d362e322e312f68656c7065722d706c7567696e732f6a71756572792e746f75636853776970652e6d696e2e6a73|]
+Feb  1 03:01:48 10.71.48.6 u77777244 open "/js/carouFredSel-6.2.1/helper-plugins/jquery.mousewheel.min.js" flags READ mode 0666
+Feb  1 03:01:48 10.71.48.6 u77777244 open "/js/carouFredSel-6.2.1/helper-plugins/jquery.ba-throttle-debounce.min.js" flags READ mode 0666
+Feb  1 03:01:48 10.71.48.6 u77777244 close "/js/carouFredSel-6.2.1/helper-plugins/jquery.mousewheel.min.js" bytes read 1392 written 0
+Feb  1 03:01:48 10.71.48.6 u77777244 [10.71.48.6|get|0|1392|0|0|0|2f6a732f6361726f754672656453656c2d362e322e312f68656c7065722d706c7567696e732f6a71756572792e6d6f757365776865656c2e6d696e2e6a73|]
+Feb  1 03:01:49 10.71.48.6 u77777244 open "/logs/access.log.03.gz" flags READ mode 0666
+Feb  1 03:01:49 10.71.48.6 u77777244 close "/js/carouFredSel-6.2.1/helper-plugins/jquery.ba-throttle-debounce.min.js" bytes read 731 written 0
+Feb  1 03:01:49 10.71.48.6 u77777244 [10.71.48.6|get|1|731|0|0|0|2f6a732f6361726f754672656453656c2d362e322e312f68656c7065722d706c7567696e732f6a71756572792e62612d7468726f74746c652d6465626f756e63652e6d696e2e6a73|]
+Feb  1 03:01:49 10.71.48.6 u77777244 close "/logs/access.log.03.gz" bytes read 18079 written 0
+Feb  1 03:01:49 10.71.48.6 u77777244 [10.71.48.6|get|0|18079|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e677a|]
+Feb  1 03:01:50 10.71.48.6 u77777244 open "/logs/access.log.05.3.gz" flags READ mode 0666
+Feb  1 03:01:50 10.71.48.6 u77777244 open "/logs/access.log.04.3.gz" flags READ mode 0666
+Feb  1 03:01:50 10.71.48.6 u77777244 close "/logs/access.log.05.3.gz" bytes read 3231 written 0
+Feb  1 03:01:50 10.71.48.6 u77777244 [10.71.48.6|get|0|3231|0|0|0|2f6c6f67732f6163636573732e6c6f672e30352e332e677a|]
+Feb  1 03:01:50 10.71.48.6 u77777244 close "/logs/access.log.04.3.gz" bytes read 1235 written 0
+Feb  1 03:01:50 10.71.48.6 u77777244 [10.71.48.6|get|0|1235|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e332e677a|]
+Feb  1 03:01:51 10.71.48.6 u77777244 open "/logs/access.log.05.2.gz" flags READ mode 0666
+Feb  1 03:01:51 10.71.48.6 u77777244 open "/logs/access.log.05.1.gz" flags READ mode 0666
+Feb  1 03:01:51 10.71.48.6 u77777244 close "/logs/access.log.05.2.gz" bytes read 1924 written 0
+Feb  1 03:01:51 10.71.48.6 u77777244 [10.71.48.6|get|0|1924|0|0|0|2f6c6f67732f6163636573732e6c6f672e30352e322e677a|]
+Feb  1 03:01:51 10.71.48.6 u77777244 close "/logs/access.log.05.1.gz" bytes read 3268 written 0
+Feb  1 03:01:51 10.71.48.6 u77777244 [10.71.48.6|get|0|3268|0|0|0|2f6c6f67732f6163636573732e6c6f672e30352e312e677a|]
+Feb  1 03:01:51 10.71.48.6 u77777244 open "/logs/access.log.04.5.gz" flags READ mode 0666
+Feb  1 03:01:52 10.71.48.6 u77777244 open "/logs/access.log.02.gz" flags READ mode 0666
+Feb  1 03:01:52 10.71.48.6 u77777244 close "/logs/access.log.04.5.gz" bytes read 2679 written 0
+Feb  1 03:01:52 10.71.48.6 u77777244 [10.71.48.6|get|1|2679|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e352e677a|]
+Feb  1 03:01:52 10.71.48.6 u77777244 close "/logs/access.log.02.gz" bytes read 14676 written 0
+Feb  1 03:01:52 10.71.48.6 u77777244 [10.71.48.6|get|1|14676|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e677a|]
+Feb  1 03:01:52 10.71.48.6 u77777244 open "/logs/access.log.50.gz" flags READ mode 0666
+Feb  1 03:01:52 10.71.48.6 u77777244 open "/logs/sftp.log" flags READ mode 0666

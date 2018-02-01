@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^institutdebeautecybel.fr$
+RewriteRule ^(.*) http://www.institutdebeautecybel.fr/$1 [QSA,L,R=301]
